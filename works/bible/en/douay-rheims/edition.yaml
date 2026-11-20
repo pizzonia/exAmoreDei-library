@@ -17,293 +17,366 @@ notes: Converted from USFX by gitdocread tools/import/build_library.py; 73 books
 files:
   - path: GEN.usfm
     book: GEN
+    title: "Genesis"
     sha256: b2b8d4f5e3a30c8221b30c7286d4fe8f8d29749424e79f58a45ebed68651bf74
     bytes: 196807
   - path: EXO.usfm
     book: EXO
+    title: "Exodus"
     sha256: 80916113c57e9d865ca3f56f86e4073af438eb0346b3191ac4bbf6bc20eb5f9d
     bytes: 165806
   - path: LEV.usfm
     book: LEV
+    title: "Leviticus"
     sha256: 0abef778e6040c0e8775a995e2ace1b59cddb1e096e5aaf0b25485c04a8cdad6
     bytes: 118306
   - path: NUM.usfm
     book: NUM
+    title: "Numbers"
     sha256: 9b968e3e278911f3b1a2b80a9709267228ed95c61fbef98f5d0a8b0b7aadb57b
     bytes: 165036
   - path: DEU.usfm
     book: DEU
+    title: "Deuteronomy"
     sha256: 5922e2a8642ecf7c9308c18495db91ee1e9903c4f08d80d56948677778c67967
     bytes: 145134
   - path: JOS.usfm
     book: JOS
+    title: "Joshua"
     sha256: 23d8c70076a758c5c153ad55d3946a510a1b037f18b67ea25628f65dab53b298
     bytes: 97728
   - path: JDG.usfm
     book: JDG
+    title: "Judges"
     sha256: d9ebb4e714d25bb1be0c78b67388c1500482be30b890ade0498f2927e296ff66
     bytes: 100813
   - path: RUT.usfm
     book: RUT
+    title: "Ruth"
     sha256: e69a39ff8a4e4d98e955b0eed247d0e120ab1188945ac83a92e104c6458df5a1
     bytes: 13836
   - path: 1SA.usfm
     book: 1SA
+    title: "1 Samuel"
     sha256: 49b35fca7a48279afffbf9d168b7cad1ad962c2a5789819c34638ef58389408f
     bytes: 134846
   - path: 2SA.usfm
     book: 2SA
+    title: "2 Samuel"
     sha256: ab157f3dd1766ed5f845258cf08d6f2bd61fc5efaab037f6512c868b0fceaea7
     bytes: 110238
   - path: 1KI.usfm
     book: 1KI
+    title: "1 Kings"
     sha256: 8dd93d36fd623a26d457461ac9537f7944847ece8874b6e8a32ae2a9d80150d7
     bytes: 130102
   - path: 2KI.usfm
     book: 2KI
+    title: "2 Kings"
     sha256: 92dfc49456eab294c5b4212790b1456e40971a6c7e364d286cc9d2db08e91ad5
     bytes: 123603
   - path: 1CH.usfm
     book: 1CH
+    title: "1 Chronicles"
     sha256: 49f4df5ae83ee260c1ef2338a9cb93b056ed919309067c9a5bb3e02dd7c69fc4
     bytes: 113132
   - path: 2CH.usfm
     book: 2CH
+    title: "2 Chronicles"
     sha256: a8fddb17768aa5d9936ee93e6a1579bda99fe506bab9280a2bf2acc6044853d5
     bytes: 141732
   - path: EZR.usfm
     book: EZR
+    title: "Ezra"
     sha256: 89c15cf4c8cd17941cd847d3e2965e2e2d9e26774e8ed7b4c5c2bd353290aad5
     bytes: 41413
   - path: NEH.usfm
     book: NEH
+    title: "Nehemiah"
     sha256: ce7ef3372c1d97ebc806495fca675b1408cffa4c29679625a63d62c7fce50095
     bytes: 58597
   - path: EST.usfm
     book: EST
+    title: "Esther"
     sha256: 1f0286905b04609047a0d7f3b82e64ac9ac3608d615a1c362da2fb113d0504da
     bytes: 48405
   - path: JOB.usfm
     book: JOB
+    title: "Job"
     sha256: 37d37c487e0a468b3efbd7b0b65f7227040f2b7f1e54440e538b40f860b7480c
     bytes: 102895
   - path: PSA.usfm
     book: PSA
+    title: "Psalms"
     sha256: f810b1b268e9e1e3ba40d2df2026dc21c6ed006dc1ecf64e96b71eff9d112ca9
     bytes: 246889
   - path: PRO.usfm
     book: PRO
+    title: "Proverbs"
     sha256: 6aaa896057eb36b62662f3c8295d1213269714cda8ba973d7100463d4d1d51a8
     bytes: 88402
   - path: ECC.usfm
     book: ECC
+    title: "Ecclesiastes"
     sha256: d4c240ae187b7854a30e65081dfc05a5dd498de2ca5a599c65aa4eaaa68a98d6
     bytes: 29939
   - path: SNG.usfm
     book: SNG
+    title: "Song of Solomon"
     sha256: fb712ef07aae39b4171f79e91ceb6219263369314fb3c965750265eb6e601b25
     bytes: 14386
   - path: ISA.usfm
     book: ISA
+    title: "Isaiah"
     sha256: 8153739471207915f6a8d45e3741661e335b9bc832cae3ac8b0ba7da37884bee
     bytes: 202123
   - path: JER.usfm
     book: JER
+    title: "Jeremiah"
     sha256: 22bb33f708bd61ee3b551015e320bbd76f06b3fdaef57c7af6bb166a6abf2d23
     bytes: 231864
   - path: LAM.usfm
     book: LAM
+    title: "Lamentations"
     sha256: 8be042d300d1ccfca616c179ae3dd7adfb8a0766b2b5171378aecc2eb7fd71af
     bytes: 20246
   - path: EZK.usfm
     book: EZK
+    title: "Ezekiel"
     sha256: 40c763a8e58e7ca9267ac832b7bfecd9b55ca58b55f65bf9af8f203e158d46e3
     bytes: 213422
   - path: DAN.usfm
     book: DAN
+    title: "Daniel"
     sha256: 1e110ad75fb138b35555edee31f9512b5b9c29a0c856a7cdb6043f4975a18a8b
     bytes: 85927
   - path: HOS.usfm
     book: HOS
+    title: "Hosea"
     sha256: b5aa0915b7f9402921bc7efaa5ee5737f9648e45c65f640b7802a2566f9b06b6
     bytes: 28959
   - path: JOL.usfm
     book: JOL
+    title: "Joel"
     sha256: 05b992ca01d0a123e5a3046c4b89bb7e50023c13d912f18f09d56025836776d4
     bytes: 11444
   - path: AMO.usfm
     book: AMO
+    title: "Amos"
     sha256: bc25bf4420fa7bd3d7543267a00e4dfb556f201fc14742d606f423e71eea58e0
     bytes: 22563
   - path: OBA.usfm
     book: OBA
+    title: "Obadiah"
     sha256: d308b56e2d38c3ff0b8c7f5f0b5c92f1995a8ebc60ca82314e4d675476f3de35
     bytes: 3667
   - path: JON.usfm
     book: JON
+    title: "Jonah"
     sha256: d1f551b37b9d53a25c684ea26077f296b2668c414af9cbd84c94979562e51727
     bytes: 6941
   - path: MIC.usfm
     book: MIC
+    title: "Micah"
     sha256: e36942a1d7901a974e9a2ce64f8342bf30c7412bd133d584cb1d42ad71c79593
     bytes: 17155
   - path: NAM.usfm
     book: NAM
+    title: "Nahum"
     sha256: dc621c3a65325680476696c0a9918edfe18462df91bdcb32f12278e7bc9d3273
     bytes: 7374
   - path: HAB.usfm
     book: HAB
+    title: "Habakkuk"
     sha256: 8e9fe2b24cb460261e4cc6b13f7a3a51f5248e808116ba8142b74a8e617859da
     bytes: 8412
   - path: ZEP.usfm
     book: ZEP
+    title: "Zephaniah"
     sha256: 237662d1d841d284a4168a23808a89d8c83751daffb72c915299c18965642a8e
     bytes: 9148
   - path: HAG.usfm
     book: HAG
+    title: "Haggai"
     sha256: 2452cb1d0977ff776ee9421952067c21024e43701cbcaee5df8338673cb0f62c
     bytes: 6179
   - path: ZEC.usfm
     book: ZEC
+    title: "Zechariah"
     sha256: 1ee58562aa0a8534f82f7493ef1525e6e2539e52cc096a6d2e3043770a2c361d
     bytes: 34186
   - path: MAL.usfm
     book: MAL
+    title: "Malachi"
     sha256: 38be160fe48ccc9e4aa4ab6ef04fe7503f5dd778806864b617b8309c4b4da3d3
     bytes: 9417
   - path: TOB.usfm
     book: TOB
+    title: "Tobit"
     sha256: a84f707b7c284fa3eba30f9597b39556dd01a2ba6aa9c31fe015ff40a1f71dab
     bytes: 37891
   - path: JDT.usfm
     book: JDT
+    title: "Judith"
     sha256: b85d260eb2cbd82807d3be76c025f6d9336c78833302a59a809df9ef77fd0a2a
     bytes: 52236
   - path: WIS.usfm
     book: WIS
+    title: "Wisdom of Solomon"
     sha256: cc0566f91c2613ef91a369ac95f0277879b78047b30e8af3204c017cd6e77792
     bytes: 60135
   - path: SIR.usfm
     book: SIR
+    title: "Sirach"
     sha256: 468a00989eaa0a832185b375d2a8d4dbf3bd5d294b2e4a72ee7bd16f1ec482b0
     bytes: 170911
   - path: BAR.usfm
     book: BAR
+    title: "Baruch"
     sha256: fd84f1bbe58ae708603880f1983c0e2bf6ff5563777ad0615f7a236e6e2bbdb7
     bytes: 28571
   - path: 1MA.usfm
     book: 1MA
+    title: "1 Maccabees"
     sha256: 678f426d274dc7766e2a157b5decd873fad2c2dd98cb697aa1360eda38e3687f
     bytes: 130210
   - path: 2MA.usfm
     book: 2MA
+    title: "2 Maccabees"
     sha256: 55f3671624e43e2983069e88b5bfde430b65904d32b631f0c38bcc9e2166a835
     bytes: 92443
   - path: MAT.usfm
     book: MAT
+    title: "Matthew"
     sha256: cd4c7b495c781c2c8fa7bf5cd4c1eab92b0e2983744cb653197d82a132724369
     bytes: 128169
   - path: MRK.usfm
     book: MRK
+    title: "Mark"
     sha256: 2bd1a3619bda25d501d5cbaa38a54cbb1163b020fcda70567630c7db4dbf615a
     bytes: 81528
   - path: LUK.usfm
     book: LUK
+    title: "Luke"
     sha256: 547895df6c71d5b9ab8b464a83bf93f81b68e5a4eeb862f6e9951ddac06d953e
     bytes: 139159
   - path: JHN.usfm
     book: JHN
+    title: "John"
     sha256: e90920c4f507eb054fe1af69fb183ed362ce67a793546ba0ab133001bff0adf7
     bytes: 103330
   - path: ACT.usfm
     book: ACT
+    title: "Acts"
     sha256: 9d2c8f8eb1cc8329cb9f6699aee24b654827b3077682b6ed49da69057d951ad4
     bytes: 134772
   - path: ROM.usfm
     book: ROM
+    title: "Romans"
     sha256: ace90bd0d000853b76739c80b1bd21f4a1041d05818c8f0f5a505b13f3795d81
     bytes: 52505
   - path: 1CO.usfm
     book: 1CO
+    title: "1 Corinthians"
     sha256: c5bb20396a5fd38884f507f7e0958bdf148d8333c113ff4b25193f26f28e9d9c
     bytes: 51395
   - path: 2CO.usfm
     book: 2CO
+    title: "2 Corinthians"
     sha256: f4ae037d8a2074d2ae210bb02cd0253bdbd2acd29e3628340f45e834769e2891
     bytes: 33154
   - path: GAL.usfm
     book: GAL
+    title: "Galatians"
     sha256: c8d99eb7f271b6491deb8bb5bf2d589811a5fe3aa436fa365ff1ea6f68ed0d0a
     bytes: 17035
   - path: EPH.usfm
     book: EPH
+    title: "Ephesians"
     sha256: 8bf9cf455532056ccfaef02a213aceac93c45e2a1e079f3d903fbaf7b56f74f8
     bytes: 17271
   - path: PHP.usfm
     book: PHP
+    title: "Philippians"
     sha256: da6e65427ac794ef05e0fdd0c959ab3ed69dfe7bfdc03507c71c1e516f7a5b5a
     bytes: 12274
   - path: COL.usfm
     book: COL
+    title: "Colossians"
     sha256: 393c5e72e41e6fd7d5098d7c63bdd8ac403850f362d6004f1a7ffc88dd40c99d
     bytes: 11393
   - path: 1TH.usfm
     book: 1TH
+    title: "1 Thessalonians"
     sha256: 78755f27a09ff08694eb1d8c4488028d5026848e54d2851855a892288e1b9419
     bytes: 10437
   - path: 2TH.usfm
     book: 2TH
+    title: "2 Thessalonians"
     sha256: 401c86db1f405421ebec2e576f2a5145b1d2aeda7f8dac321deee25491a943aa
     bytes: 5758
   - path: 1TI.usfm
     book: 1TI
+    title: "1 Timothy"
     sha256: cc59d611c3d70ad6caaeb01a7a5e147a5758ebe1abaaa0d37fdef0df44b9dcf7
     bytes: 13267
   - path: 2TI.usfm
     book: 2TI
+    title: "2 Timothy"
     sha256: a61dc3eaee1c111409ff6af2f81505f9486a8a517157a4913d5bcd46da4d0c9a
     bytes: 9525
   - path: TIT.usfm
     book: TIT
+    title: "Titus"
     sha256: e448850a4d728404c1f50585c589bea31f342bbbd5f105e1f3653761633ff953
     bytes: 5456
   - path: PHM.usfm
     book: PHM
+    title: "Philemon"
     sha256: f8d860cec454e606007bc3160843d3b52dd913017858160d1b98580f3ff6dd1a
     bytes: 2607
   - path: HEB.usfm
     book: HEB
+    title: "Hebrews"
     sha256: 3a00a7a7a1cf16e2ab333a7b47558ca32ea9d1933f0e6fe44a24d250d3e93c09
     bytes: 38443
   - path: JAS.usfm
     book: JAS
+    title: "James"
     sha256: 272cda37d9e44c51d34d8be4a6ac82ddaa8aa7e38cf0057fd8da3931b8af73be
     bytes: 12976
   - path: 1PE.usfm
     book: 1PE
+    title: "1 Peter"
     sha256: dce532d093e400451e8e16646812cfdf83e6e9e785b16872f1cc2f91a04c6bda
     bytes: 13887
   - path: 2PE.usfm
     book: 2PE
+    title: "2 Peter"
     sha256: 502629e4bdb7ed2f4623b10ebfa38019e1ba6eee212552f08eda63b648c4ce6d
     bytes: 8999
   - path: 1JN.usfm
     book: 1JN
+    title: "1 John"
     sha256: fad9257f246defed7a2fe3ec08beb236cac2b356585b464d1b7d7da4de4cf6aa
     bytes: 13390
   - path: 2JN.usfm
     book: 2JN
+    title: "2 John"
     sha256: b4bb6e7b6cf829748b5a540634be959588d79afa23c3a0f5a80bb8e802d6516b
     bytes: 1722
   - path: 3JN.usfm
     book: 3JN
+    title: "3 John"
     sha256: 7823bf71adbd339b2471dae5135bf7017b90e9c460432e56131309f9ffdf9a1d
     bytes: 1850
   - path: JUD.usfm
     book: JUD
+    title: "Jude"
     sha256: c58aba162ab39f62939e31935bb10382f42e54ecaa442c381f2c6f05a0734d60
     bytes: 3832
   - path: REV.usfm
     book: REV
+    title: "Revelation"
     sha256: bc0c7d99ab7375aa9c5728c3a8c0a62131a3b4ca29bcc8d649b2205b49c474ad
     bytes: 64647

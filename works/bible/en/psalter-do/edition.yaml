@@ -17,5 +17,6 @@ notes: Psalter of the Roman Breviary as published by Divinum Officium (150 psalm
 files:
   - path: PSA.usfm
     book: PSA
+    title: "Psalter of the Roman Breviary"
     sha256: 51469e2847c76709b1c6ede9335e5e82e9e8e9fdcfd246ef52b02c0036803e5e
     bytes: 256373
