@@ -1,0 +1,14 @@
+id: alma-redemptoris-mater
+kind: hymn
+reference_scheme: units
+title:
+  la: Alma Redemptoris Mater
+  it: Alma Redemptoris Mater
+  en: Alma Redemptoris Mater
+editions:
+- language: la
+  id: do
+- language: it
+  id: do
+- language: en
+  id: do

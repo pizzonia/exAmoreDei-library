@@ -1,0 +1,14 @@
+id: te-deum
+kind: hymn
+reference_scheme: units
+title:
+  la: Te Deum
+  it: Te Deum
+  en: Te Deum
+editions:
+- language: la
+  id: do
+- language: it
+  id: do
+- language: en
+  id: do

@@ -1,0 +1,14 @@
+id: apostles-creed
+kind: creed
+reference_scheme: units
+title:
+  la: Symbolum Apostolorum
+  it: Simbolo degli Apostoli
+  en: Apostles' Creed
+editions:
+- language: la
+  id: do
+- language: it
+  id: do
+- language: en
+  id: do

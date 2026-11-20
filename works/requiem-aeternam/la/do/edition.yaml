@@ -1,0 +1,18 @@
+language: la
+id: do
+title: Requiem aeternam
+format: gdr-markdown/1
+direction: ltr
+copyright: Divinum Officium project
+license: MIT
+source:
+  title: Divinum Officium
+  url: https://github.com/DivinumOfficium/divinum-officium
+source_ids:
+  divinum-officium: horas/Latin/Psalterium/Prayers.txt [Requiem]@d6c806624c9d
+notes: 'Converted by gitdocread tools/import/build_library.py. Units: stanzas; lines of psalmodic texts
+  and versicles/responses.'
+files:
+  - path: text.md
+    sha256: 3c17abde840de518baae8cf0c311281e2d846166718f7e5d10becab3c5af82d2
+    bytes: 160

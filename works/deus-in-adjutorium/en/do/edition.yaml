@@ -1,0 +1,18 @@
+language: en
+id: do
+title: Opening versicle
+format: gdr-markdown/1
+direction: ltr
+copyright: Divinum Officium project
+license: MIT
+source:
+  title: Divinum Officium
+  url: https://github.com/DivinumOfficium/divinum-officium
+source_ids:
+  divinum-officium: horas/English/Psalterium/Prayers.txt [Deus in adjutorium]@d6c806624c9d
+notes: 'Converted by gitdocread tools/import/build_library.py. Units: stanzas; lines of psalmodic texts
+  and versicles/responses.'
+files:
+  - path: text.md
+    sha256: 481d77bbb9deede7624ad2907a2b1518785a8ff095a30f981435a2b18ea1206b
+    bytes: 318

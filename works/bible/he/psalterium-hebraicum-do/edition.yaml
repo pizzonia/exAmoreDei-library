@@ -1,0 +1,21 @@
+language: he
+id: psalterium-hebraicum-do
+title: Psalterium Hebraicum (Divinum Officium)
+abbreviation: HEB
+format: usfm/3
+direction: rtl
+versification: vul-clementine
+copyright: Divinum Officium project
+license: MIT
+source:
+  title: Divinum Officium
+  url: https://github.com/DivinumOfficium/divinum-officium
+source_ids:
+  divinum-officium: horas/Hebrew/Psalterium/Psalmorum@d6c806624c9d
+notes: Psalter of the Roman Breviary as published by Divinum Officium (150 psalms, without titles; one
+  poetry line per half-verse group; mediant * and flex † kept).
+files:
+  - path: PSA.usfm
+    book: PSA
+    sha256: df08f326e5107b5ad70900994f80485f777a0d4e837049e59b01d41304ba6bab
+    bytes: 378945

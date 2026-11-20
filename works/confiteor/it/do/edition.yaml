@@ -1,0 +1,18 @@
+language: it
+id: do
+title: Confiteor
+format: gdr-markdown/1
+direction: ltr
+copyright: Divinum Officium project
+license: MIT
+source:
+  title: Divinum Officium
+  url: https://github.com/DivinumOfficium/divinum-officium
+source_ids:
+  divinum-officium: horas/Italiano/Psalterium/Prayers.txt [Confiteor_]@d6c806624c9d
+notes: 'Converted by gitdocread tools/import/build_library.py. Units: stanzas; lines of psalmodic texts
+  and versicles/responses.'
+files:
+  - path: text.md
+    sha256: d7ff13a129261c6d04847aa6a05e8932fb20e1da95d22b7e78f82508af6afcfc
+    bytes: 578

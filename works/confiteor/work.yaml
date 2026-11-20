@@ -1,0 +1,14 @@
+id: confiteor
+kind: prayer
+reference_scheme: units
+title:
+  la: Confiteor
+  it: Confiteor
+  en: Confiteor
+editions:
+- language: la
+  id: do
+- language: it
+  id: do
+- language: en
+  id: do

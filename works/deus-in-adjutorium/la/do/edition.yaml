@@ -1,0 +1,18 @@
+language: la
+id: do
+title: Deus in adjutorium
+format: gdr-markdown/1
+direction: ltr
+copyright: Divinum Officium project
+license: MIT
+source:
+  title: Divinum Officium
+  url: https://github.com/DivinumOfficium/divinum-officium
+source_ids:
+  divinum-officium: horas/Latin/Psalterium/Prayers.txt [Deus in adjutorium]@d6c806624c9d
+notes: 'Converted by gitdocread tools/import/build_library.py. Units: stanzas; lines of psalmodic texts
+  and versicles/responses.'
+files:
+  - path: text.md
+    sha256: 32279afa6afdcc619a1aa254265e249adac1e694fb55d6279c96089235db63af
+    bytes: 316

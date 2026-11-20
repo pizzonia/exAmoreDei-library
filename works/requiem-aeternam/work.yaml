@@ -1,0 +1,14 @@
+id: requiem-aeternam
+kind: prayer
+reference_scheme: units
+title:
+  la: Requiem aeternam
+  it: L'eterno riposo
+  en: Eternal rest
+editions:
+- language: la
+  id: do
+- language: it
+  id: do
+- language: en
+  id: do

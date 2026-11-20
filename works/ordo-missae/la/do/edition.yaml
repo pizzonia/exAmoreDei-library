@@ -1,0 +1,18 @@
+language: la
+id: do
+title: Ordo Missae
+format: gdr-markdown/1
+direction: ltr
+copyright: Divinum Officium project
+license: MIT
+source:
+  title: Divinum Officium
+  url: https://github.com/DivinumOfficium/divinum-officium
+source_ids:
+  divinum-officium: missa/Latin/Ordo/Ordo.txt@d6c806624c9d
+notes: 'Traditional Roman Mass (Divinum Officium). Sections are divisions; parts that vary by day and
+  conditional texts are omitted. Speakers: S. priest, M. server.'
+files:
+  - path: text.md
+    sha256: 1e1bfd5045f69e604bb2fe750a8c066ab2a854f690f0fd42ac7514231e0cc2f6
+    bytes: 37799

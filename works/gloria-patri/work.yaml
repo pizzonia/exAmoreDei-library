@@ -1,0 +1,14 @@
+id: gloria-patri
+kind: prayer
+reference_scheme: units
+title:
+  la: Gloria Patri
+  it: Gloria al Padre
+  en: Glory be
+editions:
+- language: la
+  id: do
+- language: it
+  id: do
+- language: en
+  id: do

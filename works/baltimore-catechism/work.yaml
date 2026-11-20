@@ -1,0 +1,13 @@
+id: baltimore-catechism
+kind: catechism
+reference_scheme: units
+title:
+  en: Baltimore Catechism No. 1
+  it: Catechismo di Baltimora n. 1
+authors:
+- name: Third Plenary Council of Baltimore
+  role: author
+date: '1885'
+editions:
+- language: en
+  id: no1-1885

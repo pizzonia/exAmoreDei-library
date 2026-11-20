@@ -1,0 +1,14 @@
+id: hail-mary
+kind: prayer
+reference_scheme: units
+title:
+  la: Ave Maria
+  it: Ave Maria
+  en: Hail Mary
+editions:
+- language: la
+  id: do
+- language: it
+  id: do
+- language: en
+  id: do

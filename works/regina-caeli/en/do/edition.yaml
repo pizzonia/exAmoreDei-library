@@ -1,0 +1,18 @@
+language: en
+id: do
+title: Regina caeli
+format: gdr-markdown/1
+direction: ltr
+copyright: Divinum Officium project
+license: MIT
+source:
+  title: Divinum Officium
+  url: https://github.com/DivinumOfficium/divinum-officium
+source_ids:
+  divinum-officium: horas/English/Psalterium/Mariaant.txt [Paschalis]@d6c806624c9d
+notes: 'Converted by gitdocread tools/import/build_library.py. Units: stanzas; lines of psalmodic texts
+  and versicles/responses.'
+files:
+  - path: text.md
+    sha256: 6cce00917f14d73a8974f0e71b6dc0a6f190cfd3a832d9c7aa7a19434b65af90
+    bytes: 580

@@ -1,0 +1,7 @@
+---
+title: "Ave Maria"
+---
+
+# Ave Maria {#main}
+
+[1]{.v} Ave, o Maria, piena di grazia, il Signore è con te. Tu sei benedetta tra le donne e benedetto è il frutto del tuo seno, Gesù. Santa Maria, Madre di Dio, prega per noi peccatori, adesso e nell'ora della nostra morte. Amen.

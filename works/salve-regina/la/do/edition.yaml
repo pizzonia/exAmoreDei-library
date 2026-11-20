@@ -1,0 +1,18 @@
+language: la
+id: do
+title: Salve Regina
+format: gdr-markdown/1
+direction: ltr
+copyright: Divinum Officium project
+license: MIT
+source:
+  title: Divinum Officium
+  url: https://github.com/DivinumOfficium/divinum-officium
+source_ids:
+  divinum-officium: horas/Latin/Psalterium/Mariaant.txt [Postpentecost]@d6c806624c9d
+notes: 'Converted by gitdocread tools/import/build_library.py. Units: stanzas; lines of psalmodic texts
+  and versicles/responses.'
+files:
+  - path: text.md
+    sha256: 5149ec39cbf0611404b417f2d0f7fc9bdbcf3603e6ee43c231b015384faf686f
+    bytes: 919

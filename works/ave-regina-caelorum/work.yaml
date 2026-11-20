@@ -1,0 +1,14 @@
+id: ave-regina-caelorum
+kind: hymn
+reference_scheme: units
+title:
+  la: Ave Regina caelorum
+  it: Ave Regina dei cieli
+  en: Ave Regina caelorum
+editions:
+- language: la
+  id: do
+- language: it
+  id: do
+- language: en
+  id: do

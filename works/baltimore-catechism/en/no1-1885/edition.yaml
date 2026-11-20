@@ -1,0 +1,17 @@
+language: en
+id: no1-1885
+title: A Catechism of Christian Doctrine, No. 1
+format: gdr-markdown/1
+direction: ltr
+copyright: Public domain in the USA (1885).
+license: LicenseRef-PublicDomain
+source:
+  title: 'Project Gutenberg EBook #14551, via GITenberg'
+  url: https://github.com/GITenberg/A-Catechism-of-Christian-Doctrine_14551
+source_ids:
+  gutenberg: '14551'
+notes: 'Catechism part (lessons 1–33). Units: questions.'
+files:
+  - path: text.md
+    sha256: a164e5e879c04e51971941f9f3b324106bfeae50841fab5ba2df7bb7e01be009
+    bytes: 40190

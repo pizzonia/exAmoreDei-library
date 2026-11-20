@@ -1,0 +1,14 @@
+id: our-father
+kind: prayer
+reference_scheme: units
+title:
+  la: Pater noster
+  it: Padre nostro
+  en: Our Father
+editions:
+- language: la
+  id: do
+- language: it
+  id: do
+- language: en
+  id: do

@@ -1,0 +1,25 @@
+id: bible
+kind: scripture
+reference_scheme: scripture
+title:
+  la: Biblia Sacra
+  it: Sacra Bibbia
+  en: Holy Bible
+description:
+  en: The Clementine Vulgate and the Douay-Rheims Bible (73 books), and the psalter of the Roman Breviary
+    in Latin, Italian, English and Hebrew.
+  it: La Vulgata Clementina e la Bibbia Douay-Rheims (73 libri), e il salterio del Breviario Romano in
+    latino, italiano, inglese ed ebraico.
+editions:
+- language: la
+  id: vulgata-clementina
+- language: en
+  id: douay-rheims
+- language: la
+  id: psalterium-do
+- language: it
+  id: salterio-do
+- language: en
+  id: psalter-do
+- language: he
+  id: psalterium-hebraicum-do

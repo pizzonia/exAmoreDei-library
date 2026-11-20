@@ -1,0 +1,14 @@
+id: regina-caeli
+kind: hymn
+reference_scheme: units
+title:
+  la: Regina caeli
+  it: Regina dei cieli
+  en: Regina caeli
+editions:
+- language: la
+  id: do
+- language: it
+  id: do
+- language: en
+  id: do

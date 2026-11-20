@@ -1,0 +1,21 @@
+language: it
+id: salterio-do
+title: Salterio del Breviario Romano
+abbreviation: SBR
+format: usfm/3
+direction: ltr
+versification: vul-clementine
+copyright: Divinum Officium project
+license: MIT
+source:
+  title: Divinum Officium
+  url: https://github.com/DivinumOfficium/divinum-officium
+source_ids:
+  divinum-officium: horas/Italiano/Psalterium/Psalmorum@d6c806624c9d
+notes: Psalter of the Roman Breviary as published by Divinum Officium (150 psalms, without titles; one
+  poetry line per half-verse group; mediant * and flex † kept).
+files:
+  - path: PSA.usfm
+    book: PSA
+    sha256: 1d982496f645e4720c3378c563a1cccf2e101af8727ed1e1faa8c31f311a1f7d
+    bytes: 259232

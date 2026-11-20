@@ -1,0 +1,17 @@
+id: ordo-missae
+kind: liturgy
+reference_scheme: units
+title:
+  la: Ordo Missae
+  it: Ordinario della Messa
+  en: Ordinary of the Mass
+description:
+  en: Ordinary of the traditional Roman Mass.
+  it: Ordinario della Messa romana tradizionale.
+editions:
+- language: la
+  id: do
+- language: it
+  id: do
+- language: en
+  id: do

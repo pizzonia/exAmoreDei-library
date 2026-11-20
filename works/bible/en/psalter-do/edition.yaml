@@ -1,0 +1,21 @@
+language: en
+id: psalter-do
+title: Psalter of the Roman Breviary
+abbreviation: PRB
+format: usfm/3
+direction: ltr
+versification: vul-clementine
+copyright: Divinum Officium project
+license: MIT
+source:
+  title: Divinum Officium
+  url: https://github.com/DivinumOfficium/divinum-officium
+source_ids:
+  divinum-officium: horas/English/Psalterium/Psalmorum@d6c806624c9d
+notes: Psalter of the Roman Breviary as published by Divinum Officium (150 psalms, without titles; one
+  poetry line per half-verse group; mediant * and flex † kept).
+files:
+  - path: PSA.usfm
+    book: PSA
+    sha256: 51469e2847c76709b1c6ede9335e5e82e9e8e9fdcfd246ef52b02c0036803e5e
+    bytes: 256373

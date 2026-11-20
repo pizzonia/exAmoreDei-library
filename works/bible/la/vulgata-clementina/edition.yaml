@@ -1,0 +1,309 @@
+language: la
+id: vulgata-clementina
+title: Biblia Sacra Vulgata Clementina
+abbreviation: VUL
+format: usfm/3
+direction: ltr
+versification: vul-clementine
+copyright: Public domain.
+license: LicenseRef-PublicDomain
+source:
+  title: Clementine Latin Vulgate (open-bibles)
+  url: https://github.com/seven1m/open-bibles
+  version: 8b330654ade6
+source_ids:
+  open-bibles: lat-clementine.usfx.xml
+notes: Converted from USFX by gitdocread tools/import/build_library.py; 73 books.
+files:
+  - path: GEN.usfm
+    book: GEN
+    sha256: baf4977de633b229c0d0f7e6f3e3bd8adbef251da1171dc992dc73a718a00804
+    bytes: 177168
+  - path: EXO.usfm
+    book: EXO
+    sha256: cbe978e86ac26e405f77c9a9e05b7c4dc81af59c92acaaf49ead0f129e9c04c8
+    bytes: 143949
+  - path: LEV.usfm
+    book: LEV
+    sha256: f56176dd2fdfe2117e9cf96c1362ce8feb9256145b1d4b58fbb5546ab748332f
+    bytes: 99612
+  - path: NUM.usfm
+    book: NUM
+    sha256: 7ee11aff92c6e0a0513859bf565e087d1b6d244f53c3c1ffdb16d80d14ab1dea
+    bytes: 142627
+  - path: DEU.usfm
+    book: DEU
+    sha256: 931128c4216fa27f9ba058a059ef2ce45c1a8f260beac4870670d5ee8fc37870
+    bytes: 127312
+  - path: JOS.usfm
+    book: JOS
+    sha256: 07ad9a4ddabf947c48882a8956670ba57a48b490b34f5bd2afea7396adbd77b7
+    bytes: 86936
+  - path: JDG.usfm
+    book: JDG
+    sha256: af2122b43b3ebdb9c030fb30e57b7a265b0cf93b46c596728f151e3d56761ca9
+    bytes: 89655
+  - path: RUT.usfm
+    book: RUT
+    sha256: 947cf53dfd9eb463c506f84506570eda8600f7b5ee1ee5f0e7237d0e5cbccb21
+    bytes: 12273
+  - path: 1SA.usfm
+    book: 1SA
+    sha256: 785bc87c8229169ab6d5d8a8e2cfce9a19f0ee498cbde6463806c8c6469fce71
+    bytes: 122771
+  - path: 2SA.usfm
+    book: 2SA
+    sha256: 66d050e9d7b73bab91c13f87f99d028c5cb00ad4cffafd6846f16cfe71c7405b
+    bytes: 99037
+  - path: 1KI.usfm
+    book: 1KI
+    sha256: a43fda0392786b4b55cc47e7bdc47b051291e46327f5c4b0fa70e795d774c25e
+    bytes: 117986
+  - path: 2KI.usfm
+    book: 2KI
+    sha256: c83e700131845fcd36263412d0862629cd252b8a6f04976d28faccd8abf5dd4b
+    bytes: 109837
+  - path: 1CH.usfm
+    book: 1CH
+    sha256: 18f3c065d7ef051982072b59fe81c697fb4471210005da4e1153849d482e927e
+    bytes: 102166
+  - path: 2CH.usfm
+    book: 2CH
+    sha256: dab79d3ec55d16b207f97757c2855120c30cf29802011b941da14ef65eaeaaea
+    bytes: 127287
+  - path: EZR.usfm
+    book: EZR
+    sha256: f4859c58b7794e3597fae59bc596e30df747aefcad3db20a5c5cc74e388b28d2
+    bytes: 36057
+  - path: NEH.usfm
+    book: NEH
+    sha256: a3265ecbfb1812f88a567cdd02b4ef4d5624fcba9892cd085951e09d38ad9150
+    bytes: 51644
+  - path: TOB.usfm
+    book: TOB
+    sha256: 0bdffc48166a8110467f5fc8b195369343b12e18fc7a5d44c56a27d4b8777ad3
+    bytes: 34915
+  - path: JDT.usfm
+    book: JDT
+    sha256: ebd8c9351789f593e017b7ab2fc4e291bd14a6d94fd4f27f49a50163428d04f3
+    bytes: 46698
+  - path: EST.usfm
+    book: EST
+    sha256: 479cc29164ed14a66332e6cd7f17391a7cd74c3bfe96922d24a440def7d73c50
+    bytes: 42587
+  - path: JOB.usfm
+    book: JOB
+    sha256: 7c0f1f2d454d51bce55873976d60be9023e41e830e374cd9ba000ce39e05e616
+    bytes: 89836
+  - path: PSA.usfm
+    book: PSA
+    sha256: abe8aa7f1c9101aab93bb4b157879f152a46211a6eb2db8c3a0dfb6a2bef55a4
+    bytes: 219835
+  - path: PRO.usfm
+    book: PRO
+    sha256: cd0d34429469027e0f2fa59e70894e2c814201e060acb0e271a906103f2fced3
+    bytes: 75786
+  - path: ECC.usfm
+    book: ECC
+    sha256: d0152e0f5cd62a272d20c7ac29f11c77870f66f86d3b3f62d0654a3c51dc1889
+    bytes: 26253
+  - path: SNG.usfm
+    book: SNG
+    sha256: ff9980e3b5b4eb395f16bffdb7cb5b4f86a835651f98c08e0d83cc25351451b7
+    bytes: 13249
+  - path: WIS.usfm
+    book: WIS
+    sha256: e593583081d6e8ab4693cd2aa12fb67a59d15c2109f70e3916ca660e4e24ef14
+    bytes: 53466
+  - path: SIR.usfm
+    book: SIR
+    sha256: c1da0319a2996aef183e49c1d6b700ef924a69ecd95288a1f134c88cf82cbd9e
+    bytes: 149201
+  - path: ISA.usfm
+    book: ISA
+    sha256: 64f759b1fd807258bc955885686b4ee79b34687d490f6b9f1e5df3f7592c26e8
+    bytes: 171619
+  - path: JER.usfm
+    book: JER
+    sha256: c922e7fb113980df151fc7fa7a2b99398848a7f7dce772756581e8183a96d827
+    bytes: 201511
+  - path: LAM.usfm
+    book: LAM
+    sha256: 41e7762d56ae80c0bf223622f147e32be87b0f35e41d2b2f1b029f9af8fd8095
+    bytes: 17571
+  - path: BAR.usfm
+    book: BAR
+    sha256: f345bf9a52c87eadab9a0093227855a399fe294ba798130fa6b54cd22be60527
+    bytes: 24932
+  - path: EZK.usfm
+    book: EZK
+    sha256: ae0ecd9dfe0ffcda6f5fd78170b024750098f198d15ef35f6a924440d2ea4d82
+    bytes: 183236
+  - path: DAN.usfm
+    book: DAN
+    sha256: 383b857f886ebf51031f114ee4d595217b3a30adc112cd6c943d205604e7b8ef
+    bytes: 75592
+  - path: HOS.usfm
+    book: HOS
+    sha256: 2c268e3c3e42564a6a71ae54100d0ad04699d7356ec18e7905b0afa9aa1dccfd
+    bytes: 24419
+  - path: JOL.usfm
+    book: JOL
+    sha256: f3c2064d779aefb4e120f916cba9513c9c60b7824776829546f7757fcf8edbbb
+    bytes: 9605
+  - path: AMO.usfm
+    book: AMO
+    sha256: 2279e9b6a6a2bf5903135a70edb3a24e8e62cbf20182952d094620c23c88c04c
+    bytes: 19499
+  - path: OBA.usfm
+    book: OBA
+    sha256: 3b2c49a7344ef840f3387312a436859342fa84445dda5407d4acd0cd59b1759e
+    bytes: 3007
+  - path: JON.usfm
+    book: JON
+    sha256: 76d81d8f5433b73fe34e4827820abc6a32bae13a814601acc0124972aa213edf
+    bytes: 6263
+  - path: MIC.usfm
+    book: MIC
+    sha256: a8433802d824ae0ed4361f6f336a748e9aa0872e9f1d91cb726824add2a61bce
+    bytes: 14452
+  - path: NAM.usfm
+    book: NAM
+    sha256: 9d8d32dec6aef7bbc18ccdbaa82b4b1aa5b317a5706736ba329fab5812459782
+    bytes: 6214
+  - path: HAB.usfm
+    book: HAB
+    sha256: eb12f9ebd31d7892f3bd45db81f4950aed31651cd8199558af303ca235ff50b7
+    bytes: 7117
+  - path: ZEP.usfm
+    book: ZEP
+    sha256: 4e933dfc8fb81a3e53226c57a110244caadfa77dbbf9971521c7382f92fdadd0
+    bytes: 7556
+  - path: HAG.usfm
+    book: HAG
+    sha256: 7f1031b4b9a26990a32d0948d79378da929e322326f5a812ad009a9b9f9a424b
+    bytes: 5558
+  - path: ZEC.usfm
+    book: ZEC
+    sha256: 1894a38fbf0da48c85a613902951460b075d3ce0e37233f01b9c9a2804f9e60a
+    bytes: 29464
+  - path: MAL.usfm
+    book: MAL
+    sha256: 7ddff248b42fbff19f9273a8185cd0abe6f69210d15f1d9707c32c136e0a7380
+    bytes: 8382
+  - path: 1MA.usfm
+    book: 1MA
+    sha256: 6a1362262aa8a312fb787ab33f158caf33956f339751f7c94516109e95ab278f
+    bytes: 114881
+  - path: 2MA.usfm
+    book: 2MA
+    sha256: f5e7cf86f100b3a4959fec4bf59471ed8d57dbd25239d7385868aa19024cea59
+    bytes: 78724
+  - path: MAT.usfm
+    book: MAT
+    sha256: b33baf689074c3a8c1e8ce61d78ecb8c31f7a6563dff6c65628ad9ce4cd9a4b2
+    bytes: 115176
+  - path: MRK.usfm
+    book: MRK
+    sha256: 92a82632b5ce9341a71b959fac8bc32eff88de35c38f9e2dc72f6787de93eb35
+    bytes: 71953
+  - path: LUK.usfm
+    book: LUK
+    sha256: 83c15f4ecf34be512a480239e4143c88ab8719a472410f96bb9724fba3da9f7f
+    bytes: 124442
+  - path: JHN.usfm
+    book: JHN
+    sha256: c9d5adce013e7acd209a93c59781da110f5cee13ba2db8d39a6719bfb998f047
+    bytes: 93035
+  - path: ACT.usfm
+    book: ACT
+    sha256: 26960da565ff536073a52e352f3db991c1d7a0bc66146ceea9a06644fd8da78b
+    bytes: 120273
+  - path: ROM.usfm
+    book: ROM
+    sha256: c29217199b1264a75b30ed047cc1b344f40e0f729442d18871c76d303f804ac2
+    bytes: 46814
+  - path: 1CO.usfm
+    book: 1CO
+    sha256: 02649d718f2e94f294d533b5153fd649752062804a0878e8a8a37e4bffb7dbc6
+    bytes: 45695
+  - path: 2CO.usfm
+    book: 2CO
+    sha256: 1674a1604ce6894995b144999cedf361428a5efbde043279d84873d338a9222c
+    bytes: 30321
+  - path: GAL.usfm
+    book: GAL
+    sha256: 9607bcd5c704c57eee222cf5db30b17f1cdd3ec822c60968c371ef630a555cd8
+    bytes: 15250
+  - path: EPH.usfm
+    book: EPH
+    sha256: 1592f2ffd0c343c69c987f2defb97b563789386f029e156b76e72d084797a35d
+    bytes: 15635
+  - path: PHP.usfm
+    book: PHP
+    sha256: af81e6a51931b76edc4fd52df0c1170a47e5edf350fecf4a4ffcaa3e7397c0f0
+    bytes: 11021
+  - path: COL.usfm
+    book: COL
+    sha256: e5240aab6c4986c42964172bfd235cb45250ad87a80bf64e924766c4f8ef413f
+    bytes: 10487
+  - path: 1TH.usfm
+    book: 1TH
+    sha256: 7887ef0cb17d790c3e567c492f2431d9a0cfbfb354fba366fa7a5e9a0e77239e
+    bytes: 9763
+  - path: 2TH.usfm
+    book: 2TH
+    sha256: d7f4fd56de93babcd255698d19c2b5d294de18600d699cb1f243f80dd12bc759
+    bytes: 5296
+  - path: 1TI.usfm
+    book: 1TI
+    sha256: 019692cc5c7c57e06f8dd070ed6d5274282b8327e4933ef671249d68ea3f8eaa
+    bytes: 11912
+  - path: 2TI.usfm
+    book: 2TI
+    sha256: 34db7eedda7c32770dbf4899f0aa8afd2f162b74996246d476b1f6fbd01332e4
+    bytes: 8537
+  - path: TIT.usfm
+    book: TIT
+    sha256: 31de6dcb8b342c23ff9d077d12350e1ea3b3f79edbe91c137661bb0493e7acaf
+    bytes: 4981
+  - path: PHM.usfm
+    book: PHM
+    sha256: d1f30996a1d163a2f81de86e399ebab51aa36fc88b9c7fe818dc113378677053
+    bytes: 2233
+  - path: HEB.usfm
+    book: HEB
+    sha256: 7bff0232d11d18241fd46eb714664a96d685d65ee5a014831d7437d9511c0512
+    bytes: 34392
+  - path: JAS.usfm
+    book: JAS
+    sha256: ead275bd6d489bd1e9e51d995453dc8b029842c65f36a4bc9a4bb923f8e53923
+    bytes: 12034
+  - path: 1PE.usfm
+    book: 1PE
+    sha256: fb769368450c31a6d174aa3360563e503af6f9b57f1d550df3a13f0c5d98c230
+    bytes: 12554
+  - path: 2PE.usfm
+    book: 2PE
+    sha256: c3a0cba28e0044c48d4dacd735de5e59a520f9a21db9393bed7ff3e9ae570945
+    bytes: 7982
+  - path: 1JN.usfm
+    book: 1JN
+    sha256: 9ebf5085eac04a0227fb67170cc6e212491d7a479409c6f9bcc3d276ad813163
+    bytes: 12208
+  - path: 2JN.usfm
+    book: 2JN
+    sha256: 1d7e8baf4a5dd7f38c42b04d57cd7a2d71667456528771cde66739369ee38df8
+    bytes: 1522
+  - path: 3JN.usfm
+    book: 3JN
+    sha256: 4a71574523bcc1c3d5b68761bdbf7456812351464b6461e2b0f6d3449f4cb648
+    bytes: 1589
+  - path: JUD.usfm
+    book: JUD
+    sha256: b3f3aa0692e59279feb309f5e701c0c9db27325bf0d18e70654f431a1dc66681
+    bytes: 3450
+  - path: REV.usfm
+    book: REV
+    sha256: e5bdb05e483f85ef8acfc3906032f2d068f026ab1c7ec7d873f525714dfcf786
+    bytes: 56459

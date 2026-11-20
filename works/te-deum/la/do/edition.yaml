@@ -1,0 +1,18 @@
+language: la
+id: do
+title: Te Deum
+format: gdr-markdown/1
+direction: ltr
+copyright: Divinum Officium project
+license: MIT
+source:
+  title: Divinum Officium
+  url: https://github.com/DivinumOfficium/divinum-officium
+source_ids:
+  divinum-officium: horas/Latin/Psalterium/Prayers.txt [Te Deum]@d6c806624c9d
+notes: 'Converted by gitdocread tools/import/build_library.py. Units: stanzas; lines of psalmodic texts
+  and versicles/responses.'
+files:
+  - path: text.md
+    sha256: d7f55cb87ca3beb72140f056bae23df5ecda9dca72fa420af524372d39c12712
+    bytes: 2594

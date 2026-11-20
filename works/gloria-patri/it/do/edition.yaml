@@ -1,0 +1,18 @@
+language: it
+id: do
+title: Gloria al Padre
+format: gdr-markdown/1
+direction: ltr
+copyright: Divinum Officium project
+license: MIT
+source:
+  title: Divinum Officium
+  url: https://github.com/DivinumOfficium/divinum-officium
+source_ids:
+  divinum-officium: horas/Italiano/Psalterium/Prayers.txt [Gloria]@d6c806624c9d
+notes: 'Converted by gitdocread tools/import/build_library.py. Units: stanzas; lines of psalmodic texts
+  and versicles/responses.'
+files:
+  - path: text.md
+    sha256: db180e324baec1fa355f68bebea5c023076134472405e6e2387f279e609abee1
+    bytes: 209

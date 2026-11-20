@@ -1,0 +1,18 @@
+language: it
+id: do
+title: Simbolo degli Apostoli
+format: gdr-markdown/1
+direction: ltr
+copyright: Divinum Officium project
+license: MIT
+source:
+  title: Divinum Officium
+  url: https://github.com/DivinumOfficium/divinum-officium
+source_ids:
+  divinum-officium: horas/Italiano/Psalterium/Prayers.txt [Credo]@d6c806624c9d
+notes: 'Converted by gitdocread tools/import/build_library.py. Units: stanzas; lines of psalmodic texts
+  and versicles/responses.'
+files:
+  - path: text.md
+    sha256: cae3e5c33e04200486ef085cdeca4e34212bf8f8e39609ed8620422f325d5b17
+    bytes: 651

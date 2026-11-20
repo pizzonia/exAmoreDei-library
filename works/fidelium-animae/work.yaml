@@ -1,0 +1,14 @@
+id: fidelium-animae
+kind: prayer
+reference_scheme: units
+title:
+  la: Fidelium animae
+  it: Le anime dei fedeli
+  en: May the souls of the faithful
+editions:
+- language: la
+  id: do
+- language: it
+  id: do
+- language: en
+  id: do

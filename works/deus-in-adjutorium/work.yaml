@@ -1,0 +1,14 @@
+id: deus-in-adjutorium
+kind: liturgy
+reference_scheme: units
+title:
+  la: Deus in adjutorium
+  it: Versetto d'apertura
+  en: Opening versicle
+editions:
+- language: la
+  id: do
+- language: it
+  id: do
+- language: en
+  id: do

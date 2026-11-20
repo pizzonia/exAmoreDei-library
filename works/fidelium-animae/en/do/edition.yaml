@@ -1,0 +1,18 @@
+language: en
+id: do
+title: May the souls of the faithful
+format: gdr-markdown/1
+direction: ltr
+copyright: Divinum Officium project
+license: MIT
+source:
+  title: Divinum Officium
+  url: https://github.com/DivinumOfficium/divinum-officium
+source_ids:
+  divinum-officium: horas/English/Psalterium/Prayers.txt [Fidelium animae]@d6c806624c9d
+notes: 'Converted by gitdocread tools/import/build_library.py. Units: stanzas; lines of psalmodic texts
+  and versicles/responses.'
+files:
+  - path: text.md
+    sha256: 287e39a26d5a287238ceee83532b4f8ca00c7c20ca3f89f99ed8fb1452a98a5f
+    bytes: 190
