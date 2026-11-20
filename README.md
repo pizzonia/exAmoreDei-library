@@ -44,7 +44,7 @@ for this version:
 |--------|--------|
 | Divinum Officium | `d6c806624c9dcff6c715ef2d4abc3c9dee25d412` |
 | open-bibles | `8b330654ade69f7c96268c761da18dc83a1f49b7` |
-| gitdocread (converter) | `659f0e0b9e50463616c6d56afe9218a8f4927979` + converter changes on branch `dev` |
+| gitdocread (converter, branch `dev`) | `1056e4970e1ddff3de9c9139d50288526a578f1d` |
 
 ## Known limits
 
