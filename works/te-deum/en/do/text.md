@@ -23,14 +23,13 @@ title: "Te Deum"
 [17]{.v} When thou hadst overcome the sharpness of death, \* thou didst open the Kingdom of Heaven to all believers.\
 [18]{.v} Thou sittest at the right hand of God, \* in the glory of the Father.\
 [19]{.v} We believe that thou shalt come \* to be our Judge.\
-[20]{.v} [Kneel for the following verse]{.rubric} ~\
-[21]{.v} We therefore pray thee, help thy servants, \* whom thou hast redeemed with thy precious Blood.\
-[22]{.v} Make them to be numbered with thy Saints, \* in glory everlasting.\
-[23]{.v} O Lord, save thy people, \* and bless thine heritage.\
-[24]{.v} Govern them, \* and lift them up for ever.\
-[25]{.v} Day by day \* we magnify thee;\
-[26]{.v} [During the following verse, by local custom, all make a profound bow.]{.rubric} And we worship thy Name \* ever, world without end.\
-[27]{.v} Vouchsafe, O Lord, to keep us \* this day without sin.\
-[28]{.v} O Lord, have mercy upon us, \* have mercy upon us.\
-[29]{.v} O Lord, let thy mercy lighten upon us, \* as our trust is in thee.\
-[30]{.v} O Lord, in thee have I trusted, \* let me never be confounded.
+[20]{.v} [Kneel for the following verse]{.rubric} We therefore pray thee, help thy servants, \* whom thou hast redeemed with thy precious Blood.\
+[21]{.v} Make them to be numbered with thy Saints, \* in glory everlasting.\
+[22]{.v} O Lord, save thy people, \* and bless thine heritage.\
+[23]{.v} Govern them, \* and lift them up for ever.\
+[24]{.v} Day by day \* we magnify thee;\
+[25]{.v} [During the following verse, by local custom, all make a profound bow.]{.rubric} And we worship thy Name \* ever, world without end.\
+[26]{.v} Vouchsafe, O Lord, to keep us \* this day without sin.\
+[27]{.v} O Lord, have mercy upon us, \* have mercy upon us.\
+[28]{.v} O Lord, let thy mercy lighten upon us, \* as our trust is in thee.\
+[29]{.v} O Lord, in thee have I trusted, \* let me never be confounded.

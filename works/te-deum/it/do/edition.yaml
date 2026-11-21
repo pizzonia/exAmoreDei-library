@@ -11,8 +11,8 @@ source:
 source_ids:
   divinum-officium: horas/Italiano/Psalterium/Prayers.txt [Te Deum]@d6c806624c9d
 notes: 'Converted by gitdocread tools/import/build_library.py. Units: stanzas; lines of psalmodic texts
-  and versicles/responses.'
+  and versicles/responses; numbered as the Latin text (units with a letter, e.g. 3a, have no Latin counterpart).'
 files:
   - path: text.md
-    sha256: 2bf1cd454ee0f5191cb718913da090dc4bacf52b7f6fcdc942d22f6b71b064a9
-    bytes: 2103
+    sha256: 70a839bbad937b14a47e1f7de7fb1c68aea10314b6754367c612ff40ad812a44
+    bytes: 2091

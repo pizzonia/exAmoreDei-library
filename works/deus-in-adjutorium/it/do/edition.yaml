@@ -11,7 +11,7 @@ source:
 source_ids:
   divinum-officium: horas/Italiano/Psalterium/Prayers.txt [Deus in adjutorium]@d6c806624c9d
 notes: 'Converted by gitdocread tools/import/build_library.py. Units: stanzas; lines of psalmodic texts
-  and versicles/responses.'
+  and versicles/responses; numbered as the Latin text (units with a letter, e.g. 3a, have no Latin counterpart).'
 files:
   - path: text.md
     sha256: 3aa0df94449b698229e523efcd45e7fe1bc8fdba398bd0b490437421c492ec6d

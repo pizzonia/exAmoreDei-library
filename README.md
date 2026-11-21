@@ -44,14 +44,19 @@ for this version:
 |--------|--------|
 | Divinum Officium | `d6c806624c9dcff6c715ef2d4abc3c9dee25d412` |
 | open-bibles | `8b330654ade69f7c96268c761da18dc83a1f49b7` |
-| gitdocread (converter, branch `dev`) | `1056e4970e1ddff3de9c9139d50288526a578f1d` |
+| gitdocread (converter, branch `dev`) | `dd09eeb8ab067276a0ea89538dd4b10f2a9db155` |
 
 ## Known limits
 
-- **Parts that vary by day** (introit, collect, readings, …) are not in the Ordinary of the Mass;
-  its sections differ between languages, so the parallel view aligns it only in part.
-- **Different line structure**: the Latin Te Deum has 8 more versicles than the Italian and
-  English ones; the parallel view shows them as missing.
+- **Parts that vary by day** (introit, collect, readings, …) are not in the Ordinary of the Mass.
+- **Parallel view**: every work with several languages can be read in parallel. Translations are
+  numbered as the Latin text (automatic alignment, division by division in the Ordinary of the
+  Mass); a unit with a letter (e.g. `incipit.33a`) has no Latin counterpart. Where the texts really
+  differ, the parallel view shows a missing cell: in the Ordinary, the Italian text abridges the
+  server's Confiteor (`incipit.17`–`19`), the English one adds the blessing of the incense
+  (`incipit.33a`–`33b`) and lacks the first incensation.
+- Texts proper to other rites (Cistercian, 1570, 1960), marked as variants in Divinum Officium, are
+  left out.
 - Prayers are divided into stanzas (one unit per stanza; one per line in psalmodic texts).
 
 ## Planned

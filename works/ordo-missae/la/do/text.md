@@ -164,7 +164,7 @@ Jube, Dómine, benedícere. Dóminus sit in corde meo et in lábiis meis: ut dig
 
 [Et pronuntians: Inítium, sive Sequéntia sancti Evangélii, signat librum, et se in fronte, ore et pectore, et legit Evangelium, ut dictum est. Quo finito, respondet Minister: Laus tibi, Christe, et Sacerdos osculatur Evangelium, dicens: per evangelica dicta, ut supra.]{.rubric}
 
-## Evangelium {#evangelium-2-2 .div}
+## Evangelium {#evangelium-3 .div}
 
 [In Missis Defunctorum dicitur Munda cor meum, sed non petitur benedictio, non deferuntur luminaria, nec Celebrans osculatur librum.]{.rubric}
 
@@ -216,7 +216,7 @@ Jube, Dómine, benedícere. Dóminus sit in corde meo et in lábiis meis: ut dig
 
 [8]{.v} Veni, sanctificátor omnípotens ætérne Deus: (Benedicit Oblata, prosequendo:) et béne ✠ dic hoc sacrifícium, tuo sancto nómini præparátum.
 
-## Incensatio {#incensatio-2 .div}
+## Incensatio {#incensatio-oblatorum .div}
 
 [Postea, si sollemniter celebrat, benedicit incensum, dicens:]{.rubric}
 
@@ -264,7 +264,7 @@ Jube, Dómine, benedícere. Dóminus sit in corde meo et in lábiis meis: ut dig
 
 [!Secreta]{.rubric}
 
-## Præfatio {#pr-fatio .div}
+## Præfatio {#praefatio .div}
 
 [Quibus finitis, cum pervenerit ad conclusionem, clara voce dicit: Per ómnia sǽcula sæculórum, cum Præfatione, ut in sequentibus. Præfationem incipit ambabus manibus positis hinc inde super Altare: quas aliquantulum elevat, cum dicit: Sursum corda. Jungit eas ante pectus, et caput inclinat, cum dicit: Grátias agamus Dómino, Deo nostro. Deinde disjungit manus, et disjunctas tenet usque ad finem Præfationis: qua finita, iterum jungit eas, et inclinatus dicit: Sanctus. Et cum dicit: Benedíctus, qui venit, signum crucis sibi producit a fronte ad pectus.]{.rubric}
 
@@ -285,7 +285,7 @@ Jube, Dómine, benedícere. Dóminus sit in corde meo et in lábiis meis: ut dig
 
 [Commemoratio pro vivis]{.rubric}
 
-[2]{.v} Meménto, Dómine, famulórum famularúmque tuarum N. et N. wait10 (Jungit manus, orat aliquantulum pro quibus orare intendit: deinde manibus extensis prosequitur:) et ómnium circumstántium, quorum tibi fides cógnita est et nota devótio, pro quibus tibi offérimus: vel qui tibi ófferunt hoc sacrifícium laudis, pro se suísque ómnibus: pro redemptióne animárum suárum, pro spe salútis et incolumitátis suæ: tibíque reddunt vota sua ætérno Deo, vivo et vero.
+[2]{.v} Meménto, Dómine, famulórum famularúmque tuarum N. et N. (Jungit manus, orat aliquantulum pro quibus orare intendit: deinde manibus extensis prosequitur:) et ómnium circumstántium, quorum tibi fides cógnita est et nota devótio, pro quibus tibi offérimus: vel qui tibi ófferunt hoc sacrifícium laudis, pro se suísque ómnibus: pro redemptióne animárum suárum, pro spe salútis et incolumitátis suæ: tibíque reddunt vota sua ætérno Deo, vivo et vero.
 
 [3]{.v} et beatórum Apostolórum ac Mártyrum tuórum, Petri et Pauli, Andréæ, Jacóbi, Joánnis, Thomæ, Jacóbi, Philíppi, Bartholomǽi, Matthǽi, Simónis et Thaddǽi: Lini, Cleti, Cleméntis, Xysti, Cornélii, Cypriáni, Lauréntii, Chrysógoni, Joánnis et Pauli, Cosmæ et Damiáni: et ómnium Sanctórum tuórum; quorum méritis precibúsque concédas, ut in ómnibus protectiónis tuæ muniámur auxílio. (Jungit manus) Per eúndem Christum, Dóminum nostrum. Amen.
 
@@ -303,53 +303,49 @@ quǽsumus, Dómine, ut placátus accípias: diésque nostros in tua pace dispón
 
 [Quibus verbis prolatis, statim Hostiam consecratam genuflexus adorat: surgit, ostendit populo, reponit super Corporale, et genuflexus iterum adorat: nec amplius pollices et indices disjungit, nisi quando Hostia tractanda est, usque ad ablutionem digitorum.]{.rubric}
 
-[7]{.v} wait5
-
-[8]{.v} (Tunc, detecto Calice, dicit:)\
+[7]{.v} (Tunc, detecto Calice, dicit:)\
 Símili modo postquam cenátum est, (Ambabus manibus accipit Calicem,) accípiens et hunc præclárum Cálicem in sanctas ac venerábiles manus suas: (item Caput inclinat,) item tibi grátias agens, (Sinistra tenens Calicem, dextera signat super eum,) bene ✠ díxit, dedítque discípulis suis, dicens: Accípite, et bíbite ex eo omnes.
 
 [Profert verba consecrationis super Calicem, attente, continuate, et secrete, tenens illum parum elevatum.]{.rubric}
 
 [!!HIC EST ENIM CALIX SANGUINIS MEI, NOVI ET ÆTERNI TESTAMENTI: MYSTERIUM FIDEI: QUI PRO VOBIS ET PRO MULTIS EFFUNDETUR IN REMISSIONEM PECCATORUM.]{.rubric}
 
-[9]{.v} wait5
-
 [Quibus verbis prolatis, deponit Calicem super Corporale, et dicens secrete:]{.rubric}
 
-[10]{.v} Hæc quotiescúmque fecéritis, in mei memóriam faciétis.
+[8]{.v} Hæc quotiescúmque fecéritis, in mei memóriam faciétis.
 
 [Genuflexus adorat: surgit, ostendit populo, deponit, cooperit, et genuflexus iterum adorat.]{.rubric}
 
-[11]{.v} (Deinde disjunctis manibus dicit:)\
+[9]{.v} (Deinde disjunctis manibus dicit:)\
 Unde et mémores, Dómine, nos servi tui, sed et plebs tua sancta, ejúsdem Christi Fílii tui, Dómini nostri, tam beátæ passiónis, nec non et ab ínferis resurrectiónis, sed et in cælos gloriósæ ascensiónis: offérimus præcláræ majestáti tuæ de tuis donis ac datis, (Jungit manus, et signat ter super Hostiam, et Calicem simul, dicens:) Hóstiam ✠ puram, Hóstiam ✠ sanctam, Hóstiam ✠ immaculátam, (Signat semel super Hostiam, dicens:) Panem ✠ sanctum vitæ ætérnæ, (et semel super Calicem, dicens:) et Cálicem ✠ salútis perpétuæ.
 
-[12]{.v} (Extensis manibus prosequitur:)\
+[10]{.v} (Extensis manibus prosequitur:)\
 Supra quæ propítio ac seréno vultu respícere dignéris: et accépta habére, sicúti accépta habére dignátus es múnera púeri tui justi Abel, et sacrifícium Patriárchæ nostri Abrahæ: et quod tibi óbtulit summus sacérdos tuus Melchísedech, sanctum sacrifícium, immaculátam hóstiam.
 
 [Profunde inclinatus, junctis manibus et super Altare positis, dicit:]{.rubric}
 
-[13]{.v} Súpplices te rogámus, omnípotens Deus: jube hæc perférri per manus sancti Angeli tui in sublíme altáre tuum, in conspéctu divínæ majestátis tuæ: ut, quotquot (Osculatur Altare,) ex hac altáris participatióne sacrosánctum Fílii tui (Jungit manus, et signat semel super Hostiam, et semel super Calicem,) Cor ✠ pus, et Sán ✠ guinem sumpsérimus, (Seipsum signat, dicens:) omni benedictióne cælésti et grátia repleámur. (Jungit manus.) Per eúndem Christum, Dóminum nostrum. Amen.
+[11]{.v} Súpplices te rogámus, omnípotens Deus: jube hæc perférri per manus sancti Angeli tui in sublíme altáre tuum, in conspéctu divínæ majestátis tuæ: ut, quotquot (Osculatur Altare,) ex hac altáris participatióne sacrosánctum Fílii tui (Jungit manus, et signat semel super Hostiam, et semel super Calicem,) Cor ✠ pus, et Sán ✠ guinem sumpsérimus, (Seipsum signat, dicens:) omni benedictióne cælésti et grátia repleámur. (Jungit manus.) Per eúndem Christum, Dóminum nostrum. Amen.
 
 [Commemoratio pro defunctis]{.rubric}
 
-[14]{.v} Meménto étiam, Dómine, famulórum famularúmque tuárum N. et N., qui nos præcessérunt cum signo fídei, et dórmiunt in somno pacis.wait10 (Jungit manus, orat aliquántulum pro iis defunctis, pro quibus orare intendit, deinde extensis manibus prosequitur:) Ipsis, Dómine, et ómnibus in Christo quiescéntibus locum refrigérii, lucis, et pacis, ut indúlgeas, deprecámur. (Jungit manus, et caput inclinat, dicens:) Per eúndem Christum, Dóminum nostrum. Amen.
+[12]{.v} Meménto étiam, Dómine, famulórum famularúmque tuárum N. et N., qui nos præcessérunt cum signo fídei, et dórmiunt in somno pacis. (Jungit manus, orat aliquántulum pro iis defunctis, pro quibus orare intendit, deinde extensis manibus prosequitur:) Ipsis, Dómine, et ómnibus in Christo quiescéntibus locum refrigérii, lucis, et pacis, ut indúlgeas, deprecámur. (Jungit manus, et caput inclinat, dicens:) Per eúndem Christum, Dóminum nostrum. Amen.
 
 [Manu dextera percutit sibi pectus, elata aliquantulum voce dicens:]{.rubric}
 
-[15]{.v} Nobis quoque peccatóribus (Extensis manibus ut prius, secrete prosequitur:) fámulis tuis, de multitúdine miseratiónum tuárum sperántibus, partem áliquam et societátem donáre dignéris, cum tuis sanctis Apóstolis et Martýribus: cum Joánne, Stéphano, Matthía, Bárnaba, Ignátio, Alexándro, Marcellíno, Petro, Felicitáte, Perpétua, Agatha, Lúcia, Agnéte, Cæcília, Anastásia, et ómnibus Sanctis tuis: intra quorum nos consórtium, non æstimátor mériti, sed véniæ, quǽsumus, largítor admítte. (Jungit manus.) Per Christum, Dóminum nostrum.
+[13]{.v} Nobis quoque peccatóribus (Extensis manibus ut prius, secrete prosequitur:) fámulis tuis, de multitúdine miseratiónum tuárum sperántibus, partem áliquam et societátem donáre dignéris, cum tuis sanctis Apóstolis et Martýribus: cum Joánne, Stéphano, Matthía, Bárnaba, Ignátio, Alexándro, Marcellíno, Petro, Felicitáte, Perpétua, Agatha, Lúcia, Agnéte, Cæcília, Anastásia, et ómnibus Sanctis tuis: intra quorum nos consórtium, non æstimátor mériti, sed véniæ, quǽsumus, largítor admítte. (Jungit manus.) Per Christum, Dóminum nostrum.
 
-[16]{.v} Per quem hæc ómnia, Dómine, semper bona creas, (Signat ter super Hostiam, et Calicem simul, dicens:) sanctí ✠ ficas, viví ✠ ficas, bene ✠ dícis et præstas nobis.
+[14]{.v} Per quem hæc ómnia, Dómine, semper bona creas, (Signat ter super Hostiam, et Calicem simul, dicens:) sanctí ✠ ficas, viví ✠ ficas, bene ✠ dícis et præstas nobis.
 
 [Discooperit Calicem, genuflectit, accipit Hostiam inter pollicem et indicem manus dexteræ: et tenens sinistra Calicem, cum Hostia signat ter a labio ad labium Calicis, dicens:]{.rubric}
 
-[17]{.v} v.Per Ip ✠ sum, et cum Ip ✠ so, et in Ip ✠ so, (Cum ipsa Hostia signat bis inter se et Calicem, dicens:) est tibi Deo Patri ✠ omnipoténti, in unitáte Spíritus ✠ Sancti, (Elevans parum Calicem cum Hostia, dicit:) omnis honor, et glória.
+[15]{.v} Per Ip ✠ sum, et cum Ip ✠ so, et in Ip ✠ so, (Cum ipsa Hostia signat bis inter se et Calicem, dicens:) est tibi Deo Patri ✠ omnipoténti, in unitáte Spíritus ✠ Sancti, (Elevans parum Calicem cum Hostia, dicit:) omnis honor, et glória.
 
 [ponit Hostiam, Calicem Palla cooperit, genuflectit, surgit, et dicit intellegibili voce vel cantat:]{.rubric}
 
-[18]{.v} Per ómnia sǽcula sæculórum.\
-[19]{.v} R. Amen.
+[16]{.v} Per ómnia sǽcula sæculórum.\
+[17]{.v} R. Amen.
 
-## Preparatio Communionis {#preparatio-communionis .div}
+## Preparatio Communionis {#praeparatio-communionis .div}
 
 [(Iungit manus.)]{.rubric}
 
@@ -439,15 +435,13 @@ Agnus Dei, qui tollis peccáta mundi: dona eis réquiem sempitérnam.
 
 [Et sinistra supponens Patenam Calici, reverenter sumit totum Sanguinem cum particula. Quo sumpto, si qui sunt communicandi, eos communicet, antequam se purificet]{.rubric}
 
-[26]{.v} wait16
-
 [Postea dicit:]{.rubric}
 
-[27]{.v} Quod ore súmpsimus, Dómine, pura mente capiámus: et de múnere temporáli fiat nobis remédium sempitérnum.
+[26]{.v} Quod ore súmpsimus, Dómine, pura mente capiámus: et de múnere temporáli fiat nobis remédium sempitérnum.
 
 [Interim porrigit Calicem ministro, qui infundit in eo parum vini, quo se purificat: deinde prosequitur:]{.rubric}
 
-[28]{.v} Corpus tuum, Dómine, quod sumpsi, et Sanguis, quem potávi, adhǽreat viscéribus meis: et præsta; ut in me non remáneat scélerum mácula, quem pura et sancta refecérunt sacraménta: Qui vivis et regnas in sǽcula sæculórum. Amen.
+[27]{.v} Corpus tuum, Dómine, quod sumpsi, et Sanguis, quem potávi, adhǽreat viscéribus meis: et præsta; ut in me non remáneat scélerum mácula, quem pura et sancta refecérunt sacraménta: Qui vivis et regnas in sǽcula sæculórum. Amen.
 
 [Abluit et extergit digitos, ac sumit ablutionem: extergit os et Calicem, quem, plicato Corporali, operit et collocat in Altari ut prius: deinde prosequitur Missam.]{.rubric}
 

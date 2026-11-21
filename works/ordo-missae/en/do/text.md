@@ -16,40 +16,40 @@ title: "Ordinary of the Mass"
 
 [Then joining his hands before his breast, he begins the Anthem:]{.rubric}
 
-[2]{.v} P. I will go in to the altar of God.\
+[2]{.v} **P.** I will go in to the altar of God.\
 [3]{.v} **S.** To God who giveth joy to my youth.
 
 [The priest alternates with the server in reciting this psalm to express his desire, joy and confidence in going to the altar of the Sacrifice.]{.rubric}
 
 [Ps. 42, 1-5.]{.rubric}
 
-[4]{.v} P. Judge me, O God, and distinguish my cause from the nation which is not holy: deliver me from the unjust and deceitful man.\
+[4]{.v} **P.** Judge me, O God, and distinguish my cause from the nation which is not holy: deliver me from the unjust and deceitful man.\
 [5]{.v} **S.** For Thou, O God, art my strength: why hast Thou cast me off? and why go I sorrowful whilst the enemy afflicteth me?\
-[6]{.v} P. Send forth Thy light and Thy truth: they have conducted me and brought me unto Thy holy mount, and into Thy tabernacles.\
+[6]{.v} **P.** Send forth Thy light and Thy truth: they have conducted me and brought me unto Thy holy mount, and into Thy tabernacles.\
 [7]{.v} **S.** And I will go in to the altar of God: to God who giveth joy to my youth.\
-[8]{.v} P. To Thee, O God, my God, I will give praise upon the harp; why art thou sad, O my soul, and why dost thou disquiet me?\
+[8]{.v} **P.** To Thee, O God, my God, I will give praise upon the harp; why art thou sad, O my soul, and why dost thou disquiet me?\
 [9]{.v} **S.** Hope in God, for I will still give praise to Him: the salvation of my countenance and my God.\
-[10]{.v} P. Glory be to the Father, and to the Son, and to the Holy Ghost.\
+[10]{.v} **P.** Glory be to the Father, and to the Son, and to the Holy Ghost.\
 [11]{.v} **S.** As it was in the beginning, is now, and ever shall be, world without end. Amen.
 
 [The priest repeats the Anthem:]{.rubric}
 
-[12]{.v} P. I will go in to the altar of God.\
+[12]{.v} **P.** I will go in to the altar of God.\
 [13]{.v} **S.** To God who giveth joy to my youth.
 
 [The priest, signing himself with the Sign of the Cross, says:]{.rubric}
 
-[14]{.v} P. Our help ✠ is in the Name of the Lord.\
+[14]{.v} **P.** Our help ✠ is in the Name of the Lord.\
 [15]{.v} **S.** Who made heaven and earth.
 
 [Then, joining his hands, and humbly bowing down, he says the Confiteor:]{.rubric}
 
-[16]{.v} P. I confess to almighty God, to the blessed Mary ever Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, to all the Saints, and to you, brothers, that I have sinned exceedingly in thought, word, and deed, (Here he strikes his breast thrice.) through my fault, through my fault, through my most grievous fault. Therefore I beseech the blessed Mary, ever Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, all the Saints, and you, brothers, to pray to the Lord our God for me.\
+[16]{.v} **P.** I confess to almighty God, to the blessed Mary ever Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, to all the Saints, and to you, brothers, that I have sinned exceedingly in thought, word, and deed, (Here he strikes his breast thrice.) through my fault, through my fault, through my most grievous fault. Therefore I beseech the blessed Mary, ever Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, all the Saints, and you, brothers, to pray to the Lord our God for me.\
 [17]{.v} **S.** May almighty God be merciful to thee, and forgiving thy sins, bring thee to everlasting life.
 
 [The priest answers:]{.rubric}
 
-[18]{.v} P. Amen.
+[18]{.v} **P.** Amen.
 
 [The server says the Confiteor.]{.rubric}
 
@@ -57,23 +57,23 @@ title: "Ordinary of the Mass"
 
 [Then the priest, with his hands joined, says:]{.rubric}
 
-[20]{.v} P. May almighty God be merciful to thee, and forgiving thy sins, bring thee to everlasting life.\
+[20]{.v} **P.** May almighty God be merciful to thee, and forgiving thy sins, bring thee to everlasting life.\
 [21]{.v} **S.** Amen.
 
 [Signing himself with the Sign of the Cross, the priest says:]{.rubric}
 
-[22]{.v} P. May the ✠ almighty and merciful Lord grant us pardon, absolution, and remission of our sins.\
+[22]{.v} **P.** May the ✠ almighty and merciful Lord grant us pardon, absolution, and remission of our sins.\
 [23]{.v} **S.** Amen.
 
 [Bowing down, he proceeds:]{.rubric}
 
-[24]{.v} P. O God, Thou wilt turn again and quicken us.\
+[24]{.v} **P.** O God, Thou wilt turn again and quicken us.\
 [25]{.v} **S.** And thy people shall rejoice in Thee.\
-[26]{.v} P. Show us, O Lord, Thy mercy.\
+[26]{.v} **P.** Show us, O Lord, Thy mercy.\
 [27]{.v} **S.** And grant us Thy salvation.\
-[28]{.v} P. O Lord, hear my prayer.\
+[28]{.v} **P.** O Lord, hear my prayer.\
 [29]{.v} **S.** And let my cry come before Thee.\
-[30]{.v} P. The Lord be with you.\
+[30]{.v} **P.** The Lord be with you.\
 [31]{.v} **S.** And with thy spirit.
 
 [First extending, then joining his hands, the priest says audibly: "Let us pray". Then ascending to the altar, he says secretly:]{.rubric}
@@ -87,23 +87,23 @@ Take away from us our iniquities, we beseech Thee, O Lord, that we may be worthy
 
 [In Solemn Masses the altar is here incensed. The deacon says:]{.rubric}
 
-[34]{.v} Bless, reverend father!
+[33a]{.v} Bless, reverend father!
 
 [Whilst blessing the incense the priest says:]{.rubric}
 
-[35]{.v} Be blessed ✠ by Him in whose honor thou art burnt. Amen.
+[33b]{.v} Be blessed ✠ by Him in whose honor thou art burnt. Amen.
 
 ## Kyrie {#kyrie .div}
 
-[1]{.v} P. Lord, have mercy.\
+[1]{.v} **P.** Lord, have mercy.\
 [2]{.v} **S.** Lord, have mercy.\
-[3]{.v} P. Lord, have mercy.\
+[3]{.v} **P.** Lord, have mercy.\
 [4]{.v} **S.** Christ, have mercy.\
-[5]{.v} P. Christ, have mercy.\
+[5]{.v} **P.** Christ, have mercy.\
 [6]{.v} **S.** Christ, have mercy.\
-[7]{.v} P. Lord, have mercy.\
+[7]{.v} **P.** Lord, have mercy.\
 [8]{.v} **S.** Lord, have mercy.\
-[9]{.v} P. Lord, have mercy.
+[9]{.v} **P.** Lord, have mercy.
 
 [! Gloria]{.rubric}
 
@@ -111,7 +111,7 @@ Take away from us our iniquities, we beseech Thee, O Lord, that we may be worthy
 
 [10]{.v} Glory be to God on high, and on earth peace to men of good will. We praise Thee. We bless Thee. We adore Thee. We glorify Thee. We give Thee thanks for Thy great glory. O Lord God, heavenly King, God the Father almighty. O Lord Jesus Christ, the only begotten Son. O Lord God, Lamb of God, Son of the Father. Who takest away the sins of the world, have mercy on us. Who takest away the sins of the world, receive our prayer. Who sittest at the right hand of the Father, have mercy on us. For Thou only art holy. Thou only art the Lord. Thou only art most high, O Jesus Christ. Together with the Holy Ghost ✠ in the glory of God the Father. Amen.
 
-## Collect {#collect .div}
+## Collect {#collecta .div}
 
 [Then the priest kisses the altar, and turning to the people says:]{.rubric}
 
@@ -129,12 +129,12 @@ Take away from us our iniquities, we beseech Thee, O Lord, that we may be worthy
 
 [The priest answers:]{.rubric}
 
-[3]{.v} P. The Lord be in thy heart and on thy lips, that thou mayest worthily and in a becoming manner, proclaim His holy Gospel.\
-In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.
+[3]{.v} **P.** The Lord be in thy heart and on thy lips, that thou mayest worthily and in a becoming manner, proclaim His holy Gospel.\
+[3a]{.v} In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.
 
 [Then, turning back to towards the book, with his hands joined, the priest -- at Solemn Masses the deacon -- says:]{.rubric}
 
-[4]{.v} P. The Lord be with you.\
+[4]{.v} **P.** The Lord be with you.\
 [5]{.v} **S.** And with thy spirit.
 
 ## Evangelium {#evangelium-2 .div}
@@ -143,10 +143,10 @@ In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.
 
 [1]{.v} Cleanse my heart and my lips, O almighty God, who didst cleanse the lips of the prophet Isaias with a burning coal, and vouchsafe, through Thy gracious mercy, so to purify me, that I may worthily announce Thy holy Gospel. Through Christ our Lord. Amen.\
 Give me Thy blessing, O Lord. The Lord be in my heart and on my lips, that I may worthily and in a becoming manner, proclaim His holy Gospel. Amen.\
-P. The Lord be with you.\
-[2]{.v} **S.** And with thy spirit.
+[2]{.v} **P.** The Lord be with you.\
+[3]{.v} **S.** And with thy spirit.
 
-## Evangelium {#evangelium-2-2 .div}
+## Evangelium {#evangelium-3 .div}
 
 [In Masses for the Dead, the Munda cor is said, but the blessing is not asked, and the priest does not kiss the Gospel.]{.rubric}
 
@@ -154,10 +154,10 @@ P. The Lord be with you.\
 
 []{.rubric}
 
-[2]{.v} P. The Lord be with you.\
+[2]{.v} **P.** The Lord be with you.\
 [3]{.v} **S.** And with thy spirit.
 
-## Creed {#creed .div}
+## Creed {#credo .div}
 
 [On Sundays and certain Feasts the priest recites the Creed, a summary of the Catholic Doctrine. This profession of faith was drawn up in the General Councils of Nicaea in 325 and Constantinople in 381 to condemn heretics who denied that Jesus Christ and the Holy Ghost were God.]{.rubric}
 
@@ -165,11 +165,11 @@ P. The Lord be with you.\
 And in one Lord Jesus Christ, the only begotten Son of God. And born of the Father, before all ages. God of God: Light of Light: true God of true God. Begotten, not made, consubstantial with the Father, by whom all things were made. Who, for us men, and for our salvation, came down from heaven. (Here kneel down.) And became incarnate by the Holy Ghost of the Virgin Mary: and was made man. He was crucified also for us, suffered under Pontius Pilate, and was buried. And the third day He rose again according to the Scriptures. And ascended into heaven, and sitteth at the right hand of the Father. And He shall come again with glory to judge both the living and the dead, of whose kingdom there shall be no end.\
 And in the Holy Ghost, the Lord and Giver of Life, proceeding from the Father and the Son. Who together, with the Father and the Son, is adored and glorified: Who spoke by the prophets. And in one, holy, Catholic and Apostolic Church. I confess one baptism for the remission of sins. And I look for the resurrection of the dead. And the life of the world to come. Amen.
 
-## Offertory {#offertory .div}
+## Offertory {#offertorium .div}
 
 [The priest kisses the altar, and turning to the people says:]{.rubric}
 
-[1]{.v} P. The Lord be with you.\
+[1]{.v} **P.** The Lord be with you.\
 [2]{.v} **S.** And with thy spirit.
 
 [After saluting the people once more, the priest enters upon the Sacrifice of the Mass proper and urges the faithful to pray with him.]{.rubric}
@@ -198,7 +198,7 @@ And in the Holy Ghost, the Lord and Giver of Life, proceeding from the Father an
 
 [8]{.v} Come, O almighty and eternal God, the Sanctifier, and bless ✠ this Sacrifice, prepared for the glory of Thy holy Name.
 
-## Incense {#incense .div}
+## Incense {#incensatio-oblatorum .div}
 
 [At Solemn Masses, the priest now blesses incense, saying the following prayers:]{.rubric}
 
@@ -233,7 +233,7 @@ Set a watch, O Lord, before my mouth, and a door round about my lips. May my hea
 
 [The priest kisses the altar and, turning towards the people, extending, then joining his hands, says audibly:]{.rubric}
 
-[7]{.v} P. Brethren, pray that my Sacrifice and yours may be acceptable to God the Father almighty.
+[7]{.v} **P.** Brethren, pray that my Sacrifice and yours may be acceptable to God the Father almighty.
 
 [The server answers:]{.rubric}
 
@@ -241,21 +241,21 @@ Set a watch, O Lord, before my mouth, and a door round about my lips. May my hea
 
 [The priest answers in a low voice:]{.rubric}
 
-[9]{.v} P. Amen.
+[9]{.v} **P.** Amen.
 
 [Then, with outstretched hands, he recites the Secret Prayers, not beginning with Oremus. The Secret Prayers vary with the Mass, and are found in the Mass of the Day. These being finished, the priest says or sings: P. World without end. S. Amen.]{.rubric}
 
 [!Secret]{.rubric}
 
-## Preface {#preface .div}
+## Preface {#praefatio .div}
 
 [The priest begins the preface, a call to render thanks to God the Father, through Jesus Christ, in union with all the heavenly spirits. The prayer of thanksgiving and praise varies with important Feasts. The priest begins the Preface, holding his hands over the altar:]{.rubric}
 
-[1]{.v} P. The Lord be with you.\
+[1]{.v} **P.** The Lord be with you.\
 [2]{.v} **S.** And with thy spirit.\
-[3]{.v} P. Lift up your hearts.\
+[3]{.v} **P.** Lift up your hearts.\
 [4]{.v} **S.** We have lifted them up to the Lord.\
-[5]{.v} P. Let us give thanks to the Lord our God.\
+[5]{.v} **P.** Let us give thanks to the Lord our God.\
 [6]{.v} **S.** It is meet and just.
 
 [7]{.v} Holy, Holy, Holy, Lord God of Sabaoth! Heaven and earth are full of Thy glory! Hosanna in the highest! Blessed is He that cometh in the Name of the Lord! Hosanna in the highest!
@@ -266,7 +266,7 @@ Set a watch, O Lord, before my mouth, and a door round about my lips. May my hea
 
 [Commemoration of the Living]{.rubric}
 
-[2]{.v} Be mindful, O Lord, of Thy servants and handmaidens, N. and N. wait10 (The priest joins his hands and prays silently for those for whom he intends to pray. Then extending his hands, he proceeds:) and of all here present, whose faith and devotion are known unto Thee, for whom we offer, or who offer up to Thee, this sacrifice of praise for themselves, their families and friends, for the redemption of their souls, for the health and salvation they hope for; and who now pay their vows to Thee, the everlasting, living and true God.
+[2]{.v} Be mindful, O Lord, of Thy servants and handmaidens, N. and N. (The priest joins his hands and prays silently for those for whom he intends to pray. Then extending his hands, he proceeds:) and of all here present, whose faith and devotion are known unto Thee, for whom we offer, or who offer up to Thee, this sacrifice of praise for themselves, their families and friends, for the redemption of their souls, for the health and salvation they hope for; and who now pay their vows to Thee, the everlasting, living and true God.
 
 [3]{.v} and of the blessed Apostles and Martyrs Peter and Paul, Andrew, James, John, Thomas, James, Philip, Bartholomew, Matthew, Simon, and Thaddeus; Linus, Cletus, Clement, Xystus, Cornelius, Cyprian, Lawrence, Chrysogonus, John and Paul, Cosmas and Damian, and of all Thy Saints, through whose merits and prayers, grant that we may in all things be defended by the help of Thy protection. (He joins his hands.) Through the same Christ our Lord. Amen.
 
@@ -282,60 +282,56 @@ and to dispose our days in Thy peace, preserve us from eternal damnation, and ra
 
 [!! FOR THIS IS MY BODY.]{.rubric}
 
-[7]{.v} wait5
-
 [After pronouncing the words of the Consecration, the priest, kneeling, adores the Sacred Host; rising, he elevates It. -- Look up at the Sacred Host, with faith, piety, and love, saying: "My Lord and my God." -- and then placing It on the corporal, again adores It. After this he never disjoins his fingers and thumbs, except when he is to take the Host, until after the washing of his fingers.]{.rubric}
 
-[8]{.v} (Consecration of the Wine Then, uncovering the chalice, the priest says:)\
+[7]{.v} (Consecration of the Wine Then, uncovering the chalice, the priest says:)\
 In like manner, after He had supped, (He takes the chalice with both his hands.) taking also this excellent chalice into His holy and venerable hands (He takes the chalice in his left hand, and with his right he signs it with the Sign of the Cross.) He blessed ✠ , and gave it to His disciples, saying: Take and drink ye all of this,
 
 [The words of Consecration of the Chalice]{.rubric}
 
 [!! FOR THIS IS THE CHALICE OF MY BLOOD OF THE NEW AND ETERNAL TESTAMENT, THE MYSTERY OF FAITH; WHICH SHALL BE SHED FOR YOU AND FOR MANY UNTO THE REMISSION OF SINS.]{.rubric}
 
-[9]{.v} wait5
-
 [After the elevation of the Chalice, the priest says in a low voice:]{.rubric}
 
-[10]{.v} As often as ye do these things, ye shall do them in remembrance of Me.
+[8]{.v} As often as ye do these things, ye shall do them in remembrance of Me.
 
 [The priest kneels and adores the Precious Blood; rising, he elevates the Chalice, and setting it down he covers it and adores it again.]{.rubric}
 
-[11]{.v} (With his hands held apart, he then proceeds)\
+[9]{.v} (With his hands held apart, he then proceeds)\
 Wherefore, O Lord, we Thy servants, as also Thy holy people, calling to mind the blessed Passion of the same Christ, Thy Son, our Lord, and also His Resurrection from the dead and His glorious Ascension into heaven: do offer unto Thy most excellent Majesty of Thine own gifts, bestowed upon us, (He joins his hands and signs thrice the Host and Chalice with the Sign of the Cross.) a pure ✠ Host, a holy ✠ Host, an unspotted ✠ Host, (He signs the Host and the Chalice, with the Sign of the Cross.) the holy ✠ Bread of eternal life, and the Chalice ✠ of everlasting salvation.
 
-[12]{.v} (Extending his hands, he proceeds)\
+[10]{.v} (Extending his hands, he proceeds)\
 Upon which vouchsafe to look with a propitious and serene countenance, and to accept them, as Thou wert graciously pleased to accept the gifts of Thy just servant Abel, and the sacrifice of our patriarch Abraham, and that which Thy high priest Melchisedech offered to Thee, a holy sacrifice, an unspotted victim.
 
 [Bowing down, with his hands joined and placed upon the altar, he says:]{.rubric}
 
-[13]{.v} We most humbly beseech Thee, almighty God, command these offerings to be borne by the hands of Thy holy Angels to Thine altar on high, in the sight of Thy divine majesty, that as many (He kisses the altar.) as shall partake of the most holy (He joins his hand, and signs the Host and the Chalice with the Sign of the Cross.) Body ✠ and Blood ✠ of Thy Son (He signs himself with the Sign of the Cross.) at this altar, may be filled with every heavenly grace and blessing. Through the same Christ our Lord. Amen.
+[11]{.v} We most humbly beseech Thee, almighty God, command these offerings to be borne by the hands of Thy holy Angels to Thine altar on high, in the sight of Thy divine majesty, that as many (He kisses the altar.) as shall partake of the most holy (He joins his hand, and signs the Host and the Chalice with the Sign of the Cross.) Body ✠ and Blood ✠ of Thy Son (He signs himself with the Sign of the Cross.) at this altar, may be filled with every heavenly grace and blessing. Through the same Christ our Lord. Amen.
 
 [Commemoration of the Dead]{.rubric}
 
-[14]{.v} Remember also, O Lord, Thy servants and handmaids N. and N., who are gone before us with the sign of faith, and rest in the sleep of peace.wait10 (He joins his hands and prays for such of the dead as he intends to pray for, then extending his hands he proceeds:) To these, O Lord, and to all that rest in Christ, grant, we beseech Thee, a place of refreshment, light, and peace; (He joins his hands, and bows his head:) Through the same Christ our Lord. Amen.
+[12]{.v} Remember also, O Lord, Thy servants and handmaids N. and N., who are gone before us with the sign of faith, and rest in the sleep of peace. (He joins his hands and prays for such of the dead as he intends to pray for, then extending his hands he proceeds:) To these, O Lord, and to all that rest in Christ, grant, we beseech Thee, a place of refreshment, light, and peace; (He joins his hands, and bows his head:) Through the same Christ our Lord. Amen.
 
 [Pronounces in a somewhat elevated tone of voice, to symbolize an act of public self-humiliation; at the same time he strikes his breast in a token of contrition.]{.rubric}
 
-[15]{.v} To us also, Thy sinful servants, confiding in the multitude of Thy mercies, vouchsafe to grant some part and fellowship with Thy holy Apostles and Martyrs, with John, Stephen, Matthias, Barnabas, Ignatius, Alexander, Marcellinus, Peter, Felicitas, Perpetua, Agatha, Lucy, Agnes, Cecilia, Anastasia, and with all Thy Saints, into whose company we beseech Thee to admit us, not weighing our merits, but pardoning our offenses. (He joins his hands.) Through Christ our Lord.
+[13]{.v} To us also, Thy sinful servants, confiding in the multitude of Thy mercies, vouchsafe to grant some part and fellowship with Thy holy Apostles and Martyrs, with John, Stephen, Matthias, Barnabas, Ignatius, Alexander, Marcellinus, Peter, Felicitas, Perpetua, Agatha, Lucy, Agnes, Cecilia, Anastasia, and with all Thy Saints, into whose company we beseech Thee to admit us, not weighing our merits, but pardoning our offenses. (He joins his hands.) Through Christ our Lord.
 
-[16]{.v} By Whom, O Lord, Thou dost ever create, (He signs thrice the Host and the Chalice, saying:) sanctify, ✠ quicken, ✠ bless, ✠ and give unto us all these good things.
+[14]{.v} By Whom, O Lord, Thou dost ever create, (He signs thrice the Host and the Chalice, saying:) sanctify, ✠ quicken, ✠ bless, ✠ and give unto us all these good things.
 
 [He uncovers the Chalice, and genuflects: then taking the Host in his right hand, and holding the Chalice in his left, he signs with the Sign of the Cross three times across the Chalice, saying:]{.rubric}
 
-[17]{.v} By Him, ✠ and with Him, ✠ and in Him ✠ (He signs twice between the Chalice and his breast.) is to Thee, God the Father ✠ almighty, in the unity of the Holy ✠ Ghost, (He elevates a little the Chalice with the Host.) all honor and glory.
+[15]{.v} By Him, ✠ and with Him, ✠ and in Him ✠ (He signs twice between the Chalice and his breast.) is to Thee, God the Father ✠ almighty, in the unity of the Holy ✠ Ghost, (He elevates a little the Chalice with the Host.) all honor and glory.
 
 [Replacing the Host, and covering the Chalice, he kneels down, and rising again, he says (or sings):]{.rubric}
 
-[18]{.v} P. World without end.\
-[19]{.v} **S.** Amen.
+[16]{.v} **P.** World without end.\
+[17]{.v} **S.** Amen.
 
-## Preparation for Communion {#preparation-for-communion .div}
+## Preparation for Communion {#praeparatio-communionis .div}
 
 [1]{.v} Let us pray. Instructed by Thy saving precepts, and following Thy divine institution, we are bold to say:\
 Our Father, who art in heaven, hallowed be Thy Name; Thy kingdom come; Thy will be done on earth as it is in heaven. Give us this day our daily bread. And forgive us our trespasses, as we forgive those who trespass against us. And lead us not into temptation.\
 [2]{.v} **M.** But deliver us from evil.\
-[3]{.v} P. Amen.
+[3]{.v} **P.** Amen.
 
 [Then the priest takes the paten between the first and second finger and says:]{.rubric}
 
@@ -351,12 +347,12 @@ Our Father, who art in heaven, hallowed be Thy Name; Thy kingdom come; Thy will 
 
 [He places the Half which is in his left hand on the paten, and holding the Particle which he broke off in his right hand, and the Chalice in his left, he says:]{.rubric}
 
-[7]{.v} P. World without end.\
+[7]{.v} **P.** World without end.\
 [8]{.v} **S.** Amen.
 
 [The priest makes the Sign of the Cross with the Particle over the Chalice, saying:]{.rubric}
 
-[9]{.v} P. The peace ✠ of the Lord be ✠ always with ✠ you.\
+[9]{.v} **P.** The peace ✠ of the Lord be ✠ always with ✠ you.\
 [10]{.v} **S.** And with thy spirit.
 
 [He puts the Particle into the Chalice, saying:]{.rubric}
@@ -383,7 +379,7 @@ Lamb of God, who takest away the sins of the world, Grant them eternal rest.
 
 [In Solemn Masses the kiss of peace is now given; the Celebrant kisses the altar, then saluting the deacon, says:]{.rubric}
 
-[15]{.v} P. Peace be with thee.\
+[15]{.v} **P.** Peace be with thee.\
 [16]{.v} **S.** And with thy spirit.
 
 [In Masses of the Dead, the kiss of peace is not given.]{.rubric}
@@ -418,70 +414,68 @@ Lamb of God, who takest away the sins of the world, Grant them eternal rest.
 
 [Then he receives all the Precious Blood, together with the Particle.]{.rubric}
 
-[26]{.v} wait16
-
 [The priest says silently:]{.rubric}
 
-[27]{.v} Grant, O Lord, that what we have taken with our mouth, we may receive with a pure mind; and from a temporal gift may it become to us an eternal remedy.
+[26]{.v} Grant, O Lord, that what we have taken with our mouth, we may receive with a pure mind; and from a temporal gift may it become to us an eternal remedy.
 
 [Then he holds out the Chalice to the server -- in Solemn Masses to the deacon -- who pours wine into it for the first ablution, then the priest proceeds:]{.rubric}
 
-[28]{.v} May Thy Body, O Lord, which I have received, and Thy Blood which I have drunk, cleave to my bowels; and grant that no stain of sin may remain in me, who have been fed with this pure and holy Sacrament; Who livest and reignest for ever and ever. Amen.
+[27]{.v} May Thy Body, O Lord, which I have received, and Thy Blood which I have drunk, cleave to my bowels; and grant that no stain of sin may remain in me, who have been fed with this pure and holy Sacrament; Who livest and reignest for ever and ever. Amen.
 
 [The priest then washes his fingers and receives the second ablution. Then he covers the chalice and folding the corporal, places it on the chalice, as at the beginning of Mass, and goes to the right side of the altar to say the prayers from the Missal.]{.rubric}
 
-## Post Communion {#post-communion .div}
+## Post Communion {#postcommunio .div}
 
 [The priest kisses the altar. Then he turns to the people, and says or sings:]{.rubric}
 
-[1]{.v} P. The Lord be with you.\
+[1]{.v} **P.** The Lord be with you.\
 [2]{.v} **S.** And with thy spirit.
 
-## Conclusion {#conclusion .div}
+## Conclusion {#conclusio .div}
 
 [He turns to the people and says:]{.rubric}
 
-[1]{.v} P. The Lord be with you.\
+[1]{.v} **P.** The Lord be with you.\
 [2]{.v} **S.** And with thy spirit.
 
 [3]{.v} May the performance of my homage be pleasing to Thee, O holy Trinity: and grant that the Sacrifice which I, though unworthy, have offered up in the sight of Thy Majesty, may be acceptable to Thee, and through Thy mercy, be a propitiation for me, and for all those for whom I have offered it. Through Christ our Lord. Amen.
 
 [He kisses the altar, and raising his eyes, extending, raising and joining his hands, he bows down his head and says:]{.rubric}
 
-[4]{.v} P. May almighty God the Father, Son, ✠ and Holy Ghost, bless you.\
-[5]{.v} **S.** Amen.
+[5]{.v} **P.** May almighty God the Father, Son, ✠ and Holy Ghost, bless you.\
+[6]{.v} **S.** Amen.
 
 [In Masses for the Dead, the Blessing is omitted.]{.rubric}
 
 [Then turning to the Gospel side of the altar, the priest says:]{.rubric}
 
-[6]{.v} P. The Lord be with you.\
-[7]{.v} **S.** And with thy spirit.
+[7]{.v} **P.** The Lord be with you.\
+[8]{.v} **S.** And with thy spirit.
 
 [He then traces the Sign of the Cross, first upon the altar, and then upon his forehead, lips, and breast, and says:]{.rubric}
 
-## Leonine Prayers {#leonine-prayers .div}
+## Leonine Prayers {#orationes-leonis-xiii .div}
 
 [To be said kneeling after the celebration of Low Mass.]{.rubric}
 
-[1]{.v} P. Hail Mary, full of grace; The Lord is with thee; Blessed art thou amongst women, And blessed is the fruit of thy womb, Jesus.\
-A. Holy Mary, Mother of God, Pray for us sinners, now and at the hour of our death. Amen.\
-P. Hail Mary, full of grace; The Lord is with thee; Blessed art thou amongst women, And blessed is the fruit of thy womb, Jesus.\
-A. Holy Mary, Mother of God, Pray for us sinners, now and at the hour of our death. Amen.\
-P. Hail Mary, full of grace; The Lord is with thee; Blessed art thou amongst women, And blessed is the fruit of thy womb, Jesus.\
-A. Holy Mary, Mother of God, Pray for us sinners, now and at the hour of our death. Amen.
+[1]{.v} **P.** Hail Mary, full of grace; The Lord is with thee; Blessed art thou amongst women, And blessed is the fruit of thy womb, Jesus.\
+[2]{.v} A. Holy Mary, Mother of God, Pray for us sinners, now and at the hour of our death. Amen.\
+[3]{.v} **P.** Hail Mary, full of grace; The Lord is with thee; Blessed art thou amongst women, And blessed is the fruit of thy womb, Jesus.\
+[4]{.v} A. Holy Mary, Mother of God, Pray for us sinners, now and at the hour of our death. Amen.\
+[5]{.v} **P.** Hail Mary, full of grace; The Lord is with thee; Blessed art thou amongst women, And blessed is the fruit of thy womb, Jesus.\
+[6]{.v} A. Holy Mary, Mother of God, Pray for us sinners, now and at the hour of our death. Amen.
 
-[2]{.v} A. Hail, holy Queen, Mother of Mercy, our life, our sweetness, and our hope. To thee do we cry, poor banished children of Eve. To thee do we send up our sighs, mourning and weeping in this valley of tears. Turn then, most gracious Advocate, thine eyes of mercy towards us. And after this our exile, show unto us the blessed Fruit of thy womb, Jesus. O clement, O loving, O sweet Virgin Mary.\
-P. Pray for us, O Holy Mother of God.\
-O. That we may be made worthy of the promises of Christ.
+[7]{.v} A. Hail, holy Queen, Mother of Mercy, our life, our sweetness, and our hope. To thee do we cry, poor banished children of Eve. To thee do we send up our sighs, mourning and weeping in this valley of tears. Turn then, most gracious Advocate, thine eyes of mercy towards us. And after this our exile, show unto us the blessed Fruit of thy womb, Jesus. O clement, O loving, O sweet Virgin Mary.\
+[8]{.v} **P.** Pray for us, O Holy Mother of God.\
+[9]{.v} O. That we may be made worthy of the promises of Christ.
 
-[3]{.v} P. Let us pray. O God, our refuge and our strength, look down in mercy on Thy people who cry to Thee; and by the intercession of the glorious and Immaculate Virgin Mary, Mother of God, of St. Joseph her Spouse, of Thy blessed Apostles Peter and Paul, and of all the Saints, in mercy and goodness hear our prayers for the conversion of sinners, and for the liberty and exaltation of our holy Mother the Church. Through the same Christ our Lord. Amen.
+[10]{.v} **P.** Let us pray. O God, our refuge and our strength, look down in mercy on Thy people who cry to Thee; and by the intercession of the glorious and Immaculate Virgin Mary, Mother of God, of St. Joseph her Spouse, of Thy blessed Apostles Peter and Paul, and of all the Saints, in mercy and goodness hear our prayers for the conversion of sinners, and for the liberty and exaltation of our holy Mother the Church. Through the same Christ our Lord. Amen.
 
-[4]{.v} A. Holy Michael Archangel, defend us in the day of battle; be our safeguard against the wickedness and snares of the devil. -- May God rebuke him, we humbly pray: and do thou, Prince of the heavenly host, by the power of God thrust down to hell Satan and all wicked spirits, who wander through the world for the ruin of souls. Amen.
+[11]{.v} A. Holy Michael Archangel, defend us in the day of battle; be our safeguard against the wickedness and snares of the devil. -- May God rebuke him, we humbly pray: and do thou, Prince of the heavenly host, by the power of God thrust down to hell Satan and all wicked spirits, who wander through the world for the ruin of souls. Amen.
 
-[5]{.v} P. Most Sacred Heart of Jesus,\
-A. Have mercy upon us.\
-P. Most Sacred Heart of Jesus,\
-A. Have mercy upon us.\
-P. Most Sacred Heart of Jesus,\
-A. Have mercy upon us.
+[12]{.v} **P.** Most Sacred Heart of Jesus,\
+[13]{.v} A. Have mercy upon us.\
+[14]{.v} **P.** Most Sacred Heart of Jesus,\
+[15]{.v} A. Have mercy upon us.\
+[16]{.v} **P.** Most Sacred Heart of Jesus,\
+[17]{.v} A. Have mercy upon us.

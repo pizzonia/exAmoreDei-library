@@ -20,25 +20,16 @@ title: "Te Deum"
 [14]{.v} Tu Rex glóriæ, \* Christe.\
 [15]{.v} Tu Patris \* sempitérnus es Fílius.\
 [16]{.v} [(Fit reverentia)]{.rubric} Tu, ad liberándum susceptúrus hóminem: \* non horruísti Vírginis úterum.\
-[17]{.v} (sed rubrica cisterciensis dicitur)\
-[18]{.v} Tu, ad liberándum susceptúrus hóminem: \* non horruísti Vírginis úterum.\
-[19]{.v} Tu, devícto mortis acúleo, \* aperuísti credéntibus regna cælórum.\
-[20]{.v} Tu ad déxteram Dei sedes, \* in glória Patris.\
-[21]{.v} Judex créderis \* esse ventúrus.\
-[22]{.v} [(Sequens versus dicitur flexis genibus)]{.rubric} ~\
-[23]{.v} (sed rubrica cisterciensis dicitur)\
-[24]{.v} [(Fratres, quando incipiunt « Te ergo quæsumus, » exeuntes e Stallis, reverenter inclinent ad verba « Quos pretioso » et cetera)]{.rubric}\
-[25]{.v} Te ergo quǽsumus, tuis fámulis súbveni, \* quos pretióso sánguine redemísti.\
-[26]{.v} Ætérna fac cum Sanctis tuis \* in glória numerári.\
-[27]{.v} (sed rubrica 1570 dicitur)\
-[28]{.v} Ætérna fac cum Sanctis tuis \* in glória munerári.\
-[29]{.v} Salvum fac pópulum tuum, Dómine, \* et bénedic hereditáti tuæ.\
-[30]{.v} Et rege eos, \* et extólle illos usque in ætérnum.\
-[31]{.v} Per síngulos dies \* benedícimus te.\
-[32]{.v} [(Fit reverentia, secundum consuetudinem)]{.rubric} Et laudámus nomen tuum in sǽculum, \* et in sǽculum sǽculi.\
-[33]{.v} (sed rubrica cisterciensis dicitur)\
-[34]{.v} Et laudámus nomen tuum in sǽculum, \* et in sǽculum sǽculi.\
-[35]{.v} Dignáre, Dómine, die isto \* sine peccáto nos custodíre.\
-[36]{.v} Miserére nostri, Dómine, \* miserére nostri.\
-[37]{.v} Fiat misericórdia tua, Dómine, super nos, \* quemádmodum sperávimus in te.\
-[38]{.v} In te, Dómine, sperávi: \* non confúndar in ætérnum.
+[17]{.v} Tu, devícto mortis acúleo, \* aperuísti credéntibus regna cælórum.\
+[18]{.v} Tu ad déxteram Dei sedes, \* in glória Patris.\
+[19]{.v} Judex créderis \* esse ventúrus.\
+[20]{.v} [(Sequens versus dicitur flexis genibus)]{.rubric} Te ergo quǽsumus, tuis fámulis súbveni, \* quos pretióso sánguine redemísti.\
+[21]{.v} Ætérna fac cum Sanctis tuis \* in glória numerári.\
+[22]{.v} Salvum fac pópulum tuum, Dómine, \* et bénedic hereditáti tuæ.\
+[23]{.v} Et rege eos, \* et extólle illos usque in ætérnum.\
+[24]{.v} Per síngulos dies \* benedícimus te.\
+[25]{.v} [(Fit reverentia, secundum consuetudinem)]{.rubric} Et laudámus nomen tuum in sǽculum, \* et in sǽculum sǽculi.\
+[26]{.v} Dignáre, Dómine, die isto \* sine peccáto nos custodíre.\
+[27]{.v} Miserére nostri, Dómine, \* miserére nostri.\
+[28]{.v} Fiat misericórdia tua, Dómine, super nos, \* quemádmodum sperávimus in te.\
+[29]{.v} In te, Dómine, sperávi: \* non confúndar in ætérnum.

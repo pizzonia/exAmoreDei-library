@@ -11,8 +11,9 @@ source:
 source_ids:
   divinum-officium: missa/English/Ordo/Ordo.txt@d6c806624c9d
 notes: 'Traditional Roman Mass (Divinum Officium). Sections are divisions; parts that vary by day and
-  conditional texts are omitted. Speakers: S. priest, M. server.'
+  conditional texts are omitted. Speakers: S. priest, M. server (English: P. priest, S. server). Units
+  are numbered as the Latin text, division by division (units with a letter, e.g. 16a, have no Latin counterpart).'
 files:
   - path: text.md
-    sha256: 4da0ddb8e11e8dfa7ceaf888b12156395ea4fbcdd71fb55bfa3a89d0b51a7923
-    bytes: 35915
+    sha256: b3d4347aeb74bf2c4648842843ec7857d300b33e4323b306f2cd2a6648954873
+    bytes: 36181

@@ -11,7 +11,7 @@ source:
 source_ids:
   divinum-officium: horas/English/Psalterium/Prayers.txt [Gloria]@d6c806624c9d
 notes: 'Converted by gitdocread tools/import/build_library.py. Units: stanzas; lines of psalmodic texts
-  and versicles/responses.'
+  and versicles/responses; numbered as the Latin text (units with a letter, e.g. 3a, have no Latin counterpart).'
 files:
   - path: text.md
     sha256: b7d1cef258f219d20d7e14222cbf060c4513596e740bb4470ab820effa94d6db

@@ -58,35 +58,35 @@ title: "Ordinario della Messa"
 
 [Poi il Sacerdote, a mani giunte, fa l'assoluzione, dicendo:]{.rubric}
 
-[17]{.v} **S.** Dio onnipotente abbia pietà di voi e, rimessi i vostri peccati, vi conduca alla vita eterna.\
-[18]{.v} R. Amen.
+[20]{.v} **S.** Dio onnipotente abbia pietà di voi e, rimessi i vostri peccati, vi conduca alla vita eterna.\
+[21]{.v} R. Amen.
 
 [Si segna col segno di croce, dicendo:]{.rubric}
 
-[19]{.v} **S.** Il Signore onnipotente e misericordioso (facciamo un segno di croce) ✠ ci accordi il perdono, l'assoluzione e la remissione dei nostri peccati.\
-[20]{.v} R. Amen.
+[22]{.v} **S.** Il Signore onnipotente e misericordioso (facciamo un segno di croce) ✠ ci accordi il perdono, l'assoluzione e la remissione dei nostri peccati.\
+[23]{.v} R. Amen.
 
 [E prosegue inclinato:]{.rubric}
 
-[21]{.v} V. Volgendoti a noi, o Dio, ci farai vivere.\
-[22]{.v} R. E il tuo popolo si rallegrerà in Te.\
-[23]{.v} V. Mostraci, o Signore, la tua misericordia.\
-[24]{.v} R. E da' a noi la tua salvezza.\
-[25]{.v} V. O Signore, esaudisci la mia preghiera.\
-[26]{.v} R. E il mio grido giunga fino a Te.\
-[27]{.v} V. Il Signore sia con voi.\
-[28]{.v} R. E con lo spirito tuo.
+[24]{.v} V. Volgendoti a noi, o Dio, ci farai vivere.\
+[25]{.v} R. E il tuo popolo si rallegrerà in Te.\
+[26]{.v} V. Mostraci, o Signore, la tua misericordia.\
+[27]{.v} R. E da' a noi la tua salvezza.\
+[28]{.v} V. O Signore, esaudisci la mia preghiera.\
+[29]{.v} R. E il mio grido giunga fino a Te.\
+[30]{.v} V. Il Signore sia con voi.\
+[31]{.v} R. E con lo spirito tuo.
 
 [Allargando e congiungendo mani, il sacerdote dice a voce alta]{.rubric}
 
-[29]{.v} Preghiamo, (Il sacerdote salendo all'Altare, a voce bassa, domanda ancora la purificazione dei peccati: )\
+[32]{.v} Preghiamo, (Il sacerdote salendo all'Altare, a voce bassa, domanda ancora la purificazione dei peccati: )\
 Togli da noi, o Signore, le nostre iniquità: affinché con ànimo puro possiamo entrare nel Santo dei Santi. Per Cristo nostro Signore. Amen.
 
 [Quindi, congiunte le mani sopra l'Altare, inchinato, dice:]{.rubric}
 
-[30]{.v} Ti preghiamo, o Signore, per i mériti dei tuoi Santi (bacia l'Altare nel mezzo) dei quali son qui le relíquie, e di tutti i tuoi Santi: affinché ti degni di perdonare tutti i miei peccati. Amen.
+[33]{.v} Ti preghiamo, o Signore, per i mériti dei tuoi Santi (bacia l'Altare nel mezzo) dei quali son qui le relíquie, e di tutti i tuoi Santi: affinché ti degni di perdonare tutti i miei peccati. Amen.
 
-## Incensamento {#incensamento .div}
+## Incensamento {#incensatio .div}
 
 [Nella S. Messa solenne il sacerdote, prima di iniziare l'antifona dell'Introito, incensa l'Altare.]{.rubric}
 
@@ -124,13 +124,13 @@ Togli da noi, o Signore, le nostre iniquità: affinché con ànimo puro possiamo
 
 [10]{.v} Gloria a Dio nell'alto dei cieli. E pace in terra agli uomini di buona volontà. Noi Ti lodiamo. Ti benediciamo. (chiniamo il capo) Ti adoriamo. Ti glorifichiamo. (chiniamo il capo) Ti rendiamo grazie per la tua gloria immensa. Signore Iddio, Re del cielo, Dio Padre onnipotente. Signore, Figlio unigenito, (chiniamo il capo) Gesù Cristo. Signore Iddio, Agnello di Dio, Figlio del Padre. Tu che togli i peccati del mondo, abbi pietà di noi. Tu che togli i peccati del mondo, (chiniamo il capo) accogli la nostra supplica. Tu che siedi alla destra del Padre, abbi pietà di noi. Poiché Tu solo il Santo. Tu solo il Signore. Tu solo l'Altissimo, (chiniamo il capo) Gesù Cristo. Con lo Spirito Santo ✠ (ci segniamo) nella gloria di Dio Padre. Amen.
 
-## Colletta {#colletta .div}
+## Colletta {#collecta .div}
 
 [Il sacerdote, baciato l'Altare in mezzo, si volge ai fedeli e dice]{.rubric}
 
 [Il sacerdote recita le orazioni, una o più come richiesto dall'Ordine dell'Ufficio:]{.rubric}
 
-## Vangelo {#vangelo .div}
+## Vangelo {#evangelium .div}
 
 [Il sacerdote, posto in mezzo all'Altare, aspetta che il suddiacono - o il ministro - ponga il Messale dal lato del Vangelo, e che il diacono còllochi l'Evangeliario in mezzo all'Altare; quindi benedice l'incenso com'è d'uso. Il diacono, genuflesso sul gradino più alto dell'Altare, dice:]{.rubric}
 
@@ -156,7 +156,7 @@ Togli da noi, o Signore, le nostre iniquità: affinché con ànimo puro possiamo
 
 [Quindi il diacono incensa per tre volte il sacerdote]{.rubric}
 
-## Vangelo {#vangelo-2 .div}
+## Vangelo {#evangelium-2 .div}
 
 [Il sacerdote, posto in mezzo all'Altare, aspetta che il ministro ponga il Messale dal lato del Vangelo, rimanendo lì, congiunge le mani sul petto, alza gli occhi a Dio e, riabbassandoli, profondamente inchinato, a voce bassa dice:]{.rubric}
 
@@ -170,7 +170,7 @@ Degnati, o Signore, di benedirmi. Il Signore mi sia nel cuore e sulle labbra: af
 
 [Quindi il sacerdote, col pollice della mano destra, traccia un segno di croce, prima sul Messale, all'inizio del Vangelo che si deve leggere, poi su sé stesso: sulla fronte, sulle labbra e sul petto, dicendo:]{.rubric}
 
-## Vangelo {#vangelo-2-2 .div}
+## Vangelo {#evangelium-3 .div}
 
 [Nelle Messe dei Defunti non si dice il Munda cor meum, non si chiede la benedizione, non si portano i lumi, ed il Celebrante non bacia il libro.]{.rubric}
 
@@ -183,7 +183,7 @@ Degnati, o Signore, di benedirmi. Il Signore mi sia nel cuore e sulle labbra: af
 
 [Quindi il sacerdote, col pollice della mano destra, traccia un segno di croce, prima sul Messale, all'inizio del Vangelo che si deve leggere, poi su sé stesso: sulla fronte, sulle labbra e sul petto, dicendo: Séguito (o Inizio) del santo Vangelo secondo … I fedeli si segnano anch'essi, sulla fronte, sulle labbra e sul petto, e rispondono: Gloria a Te, o Signore.  Finita la lettura o il canto del Vangelo, i fedeli dicono: Lode a Te, o Cristo. Finita la lettura o il canto del Vangelo, il sacerdote bacia il Messale all'inizio del Vangelo e dice: Per questi evangelici detti siano perdonati i nostri peccati.]{.rubric}
 
-## Credo&nbsp; {#credo-nbsp .div}
+## Credo {#credo .div}
 
 [Il sacerdote, in mezzo all'Altare, allarga, eleva e congiunge le mani, e dice il Credo.]{.rubric}
 
@@ -191,7 +191,7 @@ Degnati, o Signore, di benedirmi. Il Signore mi sia nel cuore e sulle labbra: af
 E in un solo Signore, (chiniamo la testa) Gesù Cristo, unigenito Figlio di Dio. Nato dal Padre prima di tutti i secoli. Dio da Dio, luce da luce, Dio vero da Dio vero. Generato, non creato, della stessa sostanza del Padre: per mezzo di Lui tutte le cose sono state create. Per noi uomini e per la nostra salvezza discese dal cielo. (ci inginocchiamo) E per opera dello Spirito Santo si è incarnato nel seno della Vergine Maria: e si è fatto uomo. (ci rialziamo) Fu crocifisso per noi: sotto Ponzio Pilato morì e fu sepolto. Il terzo giorno è risuscitato, secondo le Scritture. È salito al cielo: siede alla destra del Padre. E di nuovo verrà nella gloria a giudicare i vivi e i morti: e il suo regno non avrà fine.\
 Credo nello Spirito Santo, che è Signore e dà la vita: e procede dal Padre e dal Figlio. E con il Padre e il Figlio è (chiniamo la testa) adorato e glorificato e ha parlato per mezzo dei Profeti. Credo la Chiesa: una, santa, cattolica e apostolica. Confesso un solo battesimo per il perdono dei peccati. Aspetto la risurrezione dei morti. E la vita ✠ del mondo che verrà. (facciamo il segno di croce). Amen.
 
-## Offertorio {#offertorio .div}
+## Offertorio {#offertorium .div}
 
 [Il sacerdote, baciato l'Altare in mezzo e congiunte le mani sul petto, si volge verso i fedeli, e allargando e congiungendo le mani dice:]{.rubric}
 
@@ -222,9 +222,9 @@ Credo nello Spirito Santo, che è Signore e dà la vita: e procede dal Padre e d
 
 [Il sacerdote si erge, eleva gli occhi al cielo, allarga le mani, le alza, le congiunge sul petto, e un po' curvato dice:]{.rubric}
 
-[8]{.v} v.Vieni, Dio eterno, onnipotente, santificatore, (benedice con la mano destra l'ostia e il calice insieme, mentre tiene la sinistra poggiata sull'Altare) e ✠ benedici questo sacrificio preparato nel tuo santo nome.
+[8]{.v} Vieni, Dio eterno, onnipotente, santificatore, (benedice con la mano destra l'ostia e il calice insieme, mentre tiene la sinistra poggiata sull'Altare) e ✠ benedici questo sacrificio preparato nel tuo santo nome.
 
-## Incensamento {#incensamento-2 .div}
+## Incensamento {#incensatio-oblatorum .div}
 
 [Il sacerdote, congiunte le mani sul petto, va al lato dell'Epistola, e benedice l'incenso, dicendo:]{.rubric}
 
@@ -272,7 +272,7 @@ Credo nello Spirito Santo, che è Signore e dà la vita: e procede dal Padre e d
 
 [!Secreta]{.rubric}
 
-## Prefatio {#prefatio .div}
+## Prefatio {#praefatio .div}
 
 [Quindi, allargate le mani, senza dire Oremus, récita le orazioni segrete. Giunto alla conclusione, a voce alta dice: Per tutti i secoli dei secoli. Finiti i quali, il sacerdote, in mezzo all'Altare, con le mani allargate e poggiate su di esso, dice a voce alta tutto il Prefazio. Alza le mani allargate, all'altezza del petto, con le palme che si guardano, quando dice: In alto i cuori. Congiunge le mani sul petto, china il capo, quando dice: Rendiamo grazie al Signore nostro Dio. Il sacerdote allarga le mani, con le palme che si guardano, e le tiene così fino alla fine del Prefazio. Quando dice Sanctus, congiunge le mani sul petto e prosegue a voce più bassa. Quando dice Benedictus qui venit, si rialza e si segna.]{.rubric}
 
@@ -285,13 +285,13 @@ Credo nello Spirito Santo, che è Signore e dà la vita: e procede dal Padre e d
 
 [7]{.v} Santo, Santo, Santo il Signore Dio degli esérciti I cieli e la terra sono pieni della tua gloria. Osanna nell'alto dei cieli. Benedetto colui che viene nel nome del Signore. Osanna nell'alto dei cieli.
 
-## Canone {#canone .div}
+## Canone {#canon .div}
 
 [1]{.v} Te dunque, o clementissimo Padre, per Gesù Cristo tuo Figlio nostro Signore, noi supplichiamo e preghiamo (bacia l'Altare e, congiunte le mani davanti al petto, prosegue) di aver grati e di benedire (fa tre segni di croce sull'Ostia e sul Calice, dicendo) questi ✠ doni, questi ✠ regali, questi ✠ santi ed illibati sacrifici (allargate le mani, prosegue) che noi ti offriamo, anzitutto per la tua santa Chiesa Cattolica, affinché ti degni pacificarla, custodirla, riunirla e governarla in tutto il mondo, insieme con il tuo servo e Papa nostro N.p, e col nostro Vescovo N.b, e con tutti i veri credenti e seguaci della cattolica ed apostolica fede.
 
 [Meménto dei vivi (díttici)]{.rubric}
 
-[2]{.v} Ricordati, o Signore, dei tuoi servi e delle tue serve N. e N. wait10 (congiunge le mani e prega un po’ per coloro per i quali intende pregare; quindi stende le mani e prosegue) e di tutti i circostanti, di cui conosci la fede e la devozione, pei quali ti offriamo (o che ti offrono) questo sacrificio di lode, per sé e per tutti i loro cari, a redenzione delle loro ànime, per la sperata salute e incolumità; e rendono i loro voti a Te, o eterno Iddio vivo e vero.
+[2]{.v} Ricordati, o Signore, dei tuoi servi e delle tue serve N. e N. (congiunge le mani e prega un po’ per coloro per i quali intende pregare; quindi stende le mani e prosegue) e di tutti i circostanti, di cui conosci la fede e la devozione, pei quali ti offriamo (o che ti offrono) questo sacrificio di lode, per sé e per tutti i loro cari, a redenzione delle loro ànime, per la sperata salute e incolumità; e rendono i loro voti a Te, o eterno Iddio vivo e vero.
 
 [3]{.v} e di quella dei tuoi beati Apostoli e Martiri: Pietro e Paolo, Andrea, Giacomo, Giovanni, Tommaso, Giacomo, Filippo, Bartolomeo, Matteo, Simone e Taddeo, Lino, Cleto, Clemente, Sisto, Cornelio, Cipriano, Lorenzo, Crisógono, Giovanni e Paolo, Cosma e Damiano, e di tutti i tuoi Santi; per i meriti e per le preghiere dei quali concedi che in ogni cosa siamo assistiti dall'aiuto della tua protezione. (Congiunge le mani) Per il medesimo Cristo nostro Signore. Amen.
 
@@ -310,57 +310,51 @@ fa che i nostri giorni scorrano nella tua pace e che noi veniamo liberati dall�
 
 [Dette queste parole, subito genuflette e adora l’Ostia consacrata: si rialza, La eleva per mostrarLa ai fedeli, La ripone sul corporale, e, genuflesso La adora ancora. Non disgiunge più gli indici dai pollici fino all’abluzione delle dita, tranne che non debba prendere l’Ostia.]{.rubric}
 
-[7]{.v} wait5
-
-[8]{.v} (Quindi, preso il calice, dice:)~\
-Nello stesso modo, dopo aver cenato (con ambo le mani prende il calice), preso nelle sue sante e venerabili mani anche questo glorioso calice: di nuovo (china il capo) rendendoti grazie, (tenendo con la sinistra il calice, vi traccia sopra un segno di croce) lo bene ✠ disse, e lo diede ai suoi discepoli, dicendo: Prendete e bevetene tutti:
+[7]{.v} (Quindi, preso il calice, dice:) v. Nello stesso modo, dopo aver cenato (con ambo le mani prende il calice), preso nelle sue sante e venerabili mani anche questo glorioso calice: di nuovo (china il capo) rendendoti grazie, (tenendo con la sinistra il calice, vi traccia sopra un segno di croce) lo bene ✠ disse, e lo diede ai suoi discepoli, dicendo: Prendete e bevetene tutti:
 
 [dice le parole della consacrazione sul calice: accuratamente e senza interruzione; tenendolo un po’ elevato]{.rubric}
 
 [!!QUESTO È IL CALICE DEL MIO SANGUE,  DELLA NUOVA ED ETERNA ALLEANZA: MISTERO DI FEDE: IL QUALE PER VOI E PER MOLTI SARÀ SPARSO IN REMISSIONE DEI PECCATI.]{.rubric}
 
-[9]{.v} wait5
-
 [dette queste parole, depone il Calice sul corporale, e dice:]{.rubric}
 
-[10]{.v} Ogni qual volta farete questo, lo fate in memoria di me.
+[8]{.v} Ogni qual volta farete questo, lo fate in memoria di me.
 
 [genuflesso adora il Calice: si rialza, Lo eleva per mostrarLo ai fedeli, Lo depone, Lo copre, e, genuflesso Lo adora ancora.]{.rubric}
 
-[11]{.v} (Quindi, allargate le mani, dice:)\
+[9]{.v} (Quindi, allargate le mani, dice:)\
 Onde anche noi tuoi servi, o Signore, come pure il tuo santo popolo, ricordando la beata Passione del medesimo Cristo tuo Figlio, nostro Signore, e certo anche la sua Risurrezione dagli inferi e la sua gloriosa Ascensione in cielo: offriamo all'eccelsa tua maestà, delle cose che ci hai donate e date (congiunge le mani e fa tre segni di croce sull'Ostia e sul Calice, e dice) l'Ostia ✠ pura, l'Ostia ✠ santa, l'Ostia ✠ immacolata, (traccia un segno di croce sull'Ostia, e dice) il Pane ✠ santo della vita eterna (e un segno di croce sul Calice, dicendo) e il Calice ✠ della perpetua salvezza.
 
-[12]{.v} (allargate le mani, prosegue:)~\
-Su questi doni, con propizio e sereno volto, dégnati di guardare e di gradirli, come ti degnasti gradire i doni del tuo giusto servo Abele e il sacrificio del nostro Patriarca Abramo e quello che ti offrì il tuo sommo sacerdote Melchisedech, santo sacrificio, immacolata ostia.
+[10]{.v} (allargate le mani, prosegue:) v. Su questi doni, con propizio e sereno volto, dégnati di guardare e di gradirli, come ti degnasti gradire i doni del tuo giusto servo Abele e il sacrificio del nostro Patriarca Abramo e quello che ti offrì il tuo sommo sacerdote Melchisedech, santo sacrificio, immacolata ostia.
 
 [molto inchinato, congiunge le mani, le poggia sull’Altare, e dice:]{.rubric}
 
-[13]{.v} Supplici ti preghiamo, o Dio onnipotente: comanda che questi doni, per le mani dell'Angelo tuo santo, vengano portati sul tuo sublime altare, al cospetto della tua divina maestà, affinché quanti (bacia l'Altare), partecipando a questo altare, riceveremo il sacrosanto (congiunge le mani e traccia un segno di croce prima sull'Ostia e poi sul Calice) Cor ✠ po e San ✠ gue del Figlio tuo, veniamo ricolmi (si segna) d'ogni celeste benedizione e grazia. (congiunge le mani) Per lo stesso Cristo nostro Signore. Amen.
+[11]{.v} Supplici ti preghiamo, o Dio onnipotente: comanda che questi doni, per le mani dell'Angelo tuo santo, vengano portati sul tuo sublime altare, al cospetto della tua divina maestà, affinché quanti (bacia l'Altare), partecipando a questo altare, riceveremo il sacrosanto (congiunge le mani e traccia un segno di croce prima sull'Ostia e poi sul Calice) Cor ✠ po e San ✠ gue del Figlio tuo, veniamo ricolmi (si segna) d'ogni celeste benedizione e grazia. (congiunge le mani) Per lo stesso Cristo nostro Signore. Amen.
 
 [Memento dei morti (díttici)]{.rubric}
 
-[14]{.v} Ricordati anche, o Signore, dei tuoi servi e delle tue serve N. e N. che ci hanno preceduto col segno della fede e dormono il sonno di pace.wait10 (Congiunge le mani, prega un po’ per i defunti per i quali intende pregare, quindi, allargate le mani, prosegue:) Ad essi, o Signore, e a tutti quelli che riposano in Cristo, noi ti supplichiamo di concedere, benigno, il luogo del refrigerio, della luce e della pace. (congiunge le mani e china il capo) Per il medesimo Cristo nostro Signore. Amen.
+[12]{.v} Ricordati anche, o Signore, dei tuoi servi e delle tue serve N. e N. che ci hanno preceduto col segno della fede e dormono il sonno di pace. (Congiunge le mani, prega un po’ per i defunti per i quali intende pregare, quindi, allargate le mani, prosegue:) Ad essi, o Signore, e a tutti quelli che riposano in Cristo, noi ti supplichiamo di concedere, benigno, il luogo del refrigerio, della luce e della pace. (congiunge le mani e china il capo) Per il medesimo Cristo nostro Signore. Amen.
 
 [con la destra si percuote il petto, ed elevata un poco la voce, dice:]{.rubric}
 
-[15]{.v} E anche a noi peccatori (allarga le mani e sottovoce prosegue:) servi tuoi, che speriamo nella moltitudine delle tue misericordie, dégnati di dare qualche parte e società coi tuoi santi Apostoli e Martiri: con Giovanni, Stefano, Mattia, Bárnaba, Ignazio, Alessandro, Marcellino, Pietro, Felícita, Perpetua, Ágata, Lucia, Agnese, Cecilia, Anastasia, e con tutti i tuoi Santi; nel cui consorzio ti preghiamo di accoglierci, non guardando al merito, ma elargendoci la tua grazia. (congiunge le mani.) Per Cristo nostro Signore.
+[13]{.v} E anche a noi peccatori (allarga le mani e sottovoce prosegue:) servi tuoi, che speriamo nella moltitudine delle tue misericordie, dégnati di dare qualche parte e società coi tuoi santi Apostoli e Martiri: con Giovanni, Stefano, Mattia, Bárnaba, Ignazio, Alessandro, Marcellino, Pietro, Felícita, Perpetua, Ágata, Lucia, Agnese, Cecilia, Anastasia, e con tutti i tuoi Santi; nel cui consorzio ti preghiamo di accoglierci, non guardando al merito, ma elargendoci la tua grazia. (congiunge le mani.) Per Cristo nostro Signore.
 
-[16]{.v} Per mezzo del quale, o Signore, Tu crei sempre tutti questi beni (fa tre croci sull'Ostia e sul Calice insieme, dicendo:) li santi ✠ fichi, vivi ✠ fichi, bene ✠ dici e li procuri a noi.
+[14]{.v} Per mezzo del quale, o Signore, Tu crei sempre tutti questi beni (fa tre croci sull'Ostia e sul Calice insieme, dicendo:) li santi ✠ fichi, vivi ✠ fichi, bene ✠ dici e li procuri a noi.
 
 [scopre il Calice, genuflette, prende l’Ostia tra l’indice e il pollice della mano destra e, tenendo il Calice con la sinistra, con l’Ostia fa tre segni di croce sui bordi del Calice, dicendo:]{.rubric}
 
-[17]{.v} v.Per mezzo di ✠ Lui e con ✠ Lui e in ✠ Lui, (con la stessa Ostia fa due segni di croce tra sé stesso e il Calice) viene a Te, Dio Padre ✠ onnipotente, nell'unità dello Spirito ✠ Santo
+[15]{.v} Per mezzo di ✠ Lui e con ✠ Lui e in ✠ Lui, (con la stessa Ostia fa due segni di croce tra sé stesso e il Calice) viene a Te, Dio Padre ✠ onnipotente, nell'unità dello Spirito ✠ Santo
 
 [eleva un po’ il Calice con l'Ostia]{.rubric}
 
-[18]{.v} ogni onore e gloria.
+[15a]{.v} ogni onore e gloria.
 
 [ripone l’Ostia, copre il Calice con la palla, genuflette, si rialza, e a voce alta dice o canta:]{.rubric}
 
-[19]{.v} Per tutti i secoli dei secoli.\
-[20]{.v} R. Amen.
+[16]{.v} Per tutti i secoli dei secoli.\
+[17]{.v} R. Amen.
 
-## Comunione {#comunione .div}
+## Comunione {#praeparatio-communionis .div}
 
 [1]{.v} Preghiamo Esortati da salutari precetti e ammaestrati da un'istruzione divina, osiamo dire: (allarga le mani)\
 Padre nostro, che sei nei cieli, sia santificato il tuo nome, venga il tuo regno, sia fatta la tua volontà, come in cielo così in terra. Dacci oggi il nostro pane quotidiano, e rimetti a noi i nostri debiti come noi li rimettiamo ai nostri debitori, e non c'indurre in tentazione.\
@@ -454,15 +448,13 @@ Agnello di Dio, che togli i peccati del mondo, dona loro il riposo eterno.
 
 [poi, sottoponendo con la sinistra la patena al Calice, prende con riverenza tutto il Sangue unitamente alla particella. Assunto il quale, se ci sono fedeli da comunicare, li comunichi prima di purificarsi.]{.rubric}
 
-[26]{.v} wait16
-
 [Poi dice:]{.rubric}
 
-[27]{.v} Ciò che con la bocca abbiamo ricevuto, fa, o Signore, che l'accogliamo con anima pura, e da dono temporaneo ci diventi rimedio sempiterno.
+[26]{.v} Ciò che con la bocca abbiamo ricevuto, fa, o Signore, che l'accogliamo con anima pura, e da dono temporaneo ci diventi rimedio sempiterno.
 
 [intanto, porge il Calice al ministro, che vi versa un po’ di vino, perché si purifichi, e prosegue:]{.rubric}
 
-[28]{.v} O Signore, il tuo Corpo che ho ricevuto e il tuo Sangue che ho bevuto, aderiscano all'intimo dell'ànima mia; e fa che non rimanga macchia alcuna di peccato in me, che questi puri e santi sacramenti hanno rinnovato, o Tu che vivi e regni nei secoli dei secoli. Amen.
+[27]{.v} O Signore, il tuo Corpo che ho ricevuto e il tuo Sangue che ho bevuto, aderiscano all'intimo dell'ànima mia; e fa che non rimanga macchia alcuna di peccato in me, che questi puri e santi sacramenti hanno rinnovato, o Tu che vivi e regni nei secoli dei secoli. Amen.
 
 [(Il sacerdote lava ed asciuga le dita, e beve l’abluzione; poi si asciuga la bocca, deterge il Calice, che copre col corporale ripiegato, e lo colloca in mezzo all’Altare.  Il ministro porta il Messale dal lato dell’Epistola.  Quindi il sacerdote, a mani giunte, legge l’antifona della Comunione.]{.rubric}
 
@@ -473,7 +465,7 @@ Agnello di Dio, che togli i peccati del mondo, dona loro il riposo eterno.
 [1]{.v} V. Il Signore sia con voi.\
 [2]{.v} R. E con il tuo spirito.
 
-## Conclusione {#conclusione .div}
+## Conclusione {#conclusio .div}
 
 [Detto ciò, dopo l'ultima Orazione,]{.rubric}
 
@@ -504,7 +496,7 @@ Agnello di Dio, che togli i peccati del mondo, dona loro il riposo eterno.
 
 [Finito il Vangelo di san Giovanni, scendendo dall'Altare, dice per ringraziamento l'Antifona  dei Tre fanciulli con il resto, come scritto all'inizio del Messale.]{.rubric}
 
-## Preghiera di Leone XIII {#preghiera-di-leone-xiii .div}
+## Preghiera di Leone XIII {#orationes-leonis-xiii .div}
 
 []{.rubric}
 
