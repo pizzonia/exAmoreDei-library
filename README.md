@@ -69,8 +69,11 @@ for this version:
   regnò, si è vestito di gloria…" (Vulgate *Dominus regnavit, decorem indutus est*) are missing
   from the source. The versification maps whole verses: where a Martini verse holds half of a
   Vulgate verse (e.g. Psalm 50:1–2 = Vulgate 50:1–3), the parallel view aligns it with the whole
-  verse. Martini's notes are footnotes on the first verse they comment; the summary of each
-  chapter is a section heading.
+  verse. Martini's notes are footnotes on the first verse they comment; the summary of a
+  chapter is a section heading. Scrutatio shows on the page of book *b*, chapter *c* the summary
+  of book *c*, chapter *b*: the extractor takes each summary from that page, so 616 of the 1,334
+  chapters have their summary; the others (e.g. Psalms after 73) cannot be recovered from the
+  site and have none.
 
 ## Planned
 

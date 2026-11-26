@@ -16,258 +16,258 @@ files:
   - path: GEN.usfm
     book: GEN
     title: "Genesi"
-    sha256: d9ad8d711c85935d54bfd77be332b4c48902a5c8b8394d8bf60a2b5ad436ea8c
-    bytes: 558798
+    sha256: 483ed5e0d3b9fb5abe1dfd3992b56c386cca7f4c9d60164c90c468c11e52a18d
+    bytes: 559136
   - path: EXO.usfm
     book: EXO
     title: "Esodo"
-    sha256: 6e46e364b2bca21c8e85d00a2cb69ebc249a0c2b5f9b5a6ede7119bef1b3a65a
-    bytes: 368607
+    sha256: b052f1aafec90a0d3e6469a48e0376a26d35dc399153206b8cc80ec5062aea91
+    bytes: 369430
   - path: LEV.usfm
     book: LEV
     title: "Levitico"
-    sha256: 7e6c45a2090336a0a2358e7ce70d906eb8f598c167b1856f166ae638c7ab369b
-    bytes: 224791
+    sha256: 14dd71b5ec3fb6d40b8d6b22ce1cd51e48b8b5a1b2c488eecca8c4a747efef8a
+    bytes: 223182
   - path: NUM.usfm
     book: NUM
     title: "Numeri"
-    sha256: 8b6891b1e24b0a89d0f7376712b52e8f7a522a89f9d8db2ecd207ea6ad82d5f0
-    bytes: 270140
+    sha256: 5e207fe1c11b45b29f48e520ce77cacdc6f55dba5415fd53fd0d122e5d0e8391
+    bytes: 270190
   - path: DEU.usfm
     book: DEU
     title: "Deuteronomio"
-    sha256: a7a9906d65440d1d41b1eeb890844e1062c8426abd8bcb9508ab6ead3dcaeb04
-    bytes: 247579
+    sha256: c61f57a004eccf21cddf085f2536eee5dece3b32bc64739bb44eb219f0f4c4a3
+    bytes: 247296
   - path: JOS.usfm
     book: JOS
     title: "Giosuè"
-    sha256: 197c6c3cc83c7c1307208a19de637a95484c5d9714965957612184b37d5e766f
-    bytes: 174880
+    sha256: 1c1a24ac33280b0d10e0aa12db27ec93048dcf024c5cc472ffb585164725e645
+    bytes: 172471
   - path: JDG.usfm
     book: JDG
     title: "Giudici"
-    sha256: 448ea96ffe2c2ad7c0759f4f89736291497e382e244c7f09deb5ebd33a06197d
-    bytes: 192077
+    sha256: d7ea1090f2f26c28a239124a1f3702c970eaf87de92dd953f404e6845fed03cb
+    bytes: 192083
   - path: RUT.usfm
     book: RUT
     title: "Rut"
-    sha256: b767eb10de8138a081d14cba5fa8afe2b6a5a9e78144aea8e3b735726eb0217c
-    bytes: 23547
+    sha256: 7863fab0d75d4b70ca5c841228ccbdc8a3616837339d828af3f5e23753b39efe
+    bytes: 23650
   - path: 1SA.usfm
     book: 1SA
     title: "Primo libro di Samuele"
-    sha256: 5b603697e334bb05c1318fe1f7eb0f7179d39c0533f184ee2b52b5373ea516a6
-    bytes: 256590
+    sha256: 9076bd458688ab36caf7461fb296bab60bc1f1eb6820f31fa576c2d4784fca1e
+    bytes: 256626
   - path: 2SA.usfm
     book: 2SA
     title: "Secondo libro di Samuele"
-    sha256: 4352ddf1163d49ece12954eb4f84f6e0b6a828e3e9f619cf5e160607e6fff047
-    bytes: 200678
+    sha256: 6771ba03def80b3bd61d6a7947a25328d7caff2a4a07d4251514899893c9d24c
+    bytes: 200216
   - path: 1KI.usfm
     book: 1KI
     title: "Primo libro dei Re"
-    sha256: 866113ba550cad1cdad5e83e2f41214172ff8302bc2a071d2936e851b0fa9d47
-    bytes: 247077
+    sha256: a49c487942ef2aba0640c87652c79794b209256c61946d5cfdff7dc2a66501a9
+    bytes: 248322
   - path: 2KI.usfm
     book: 2KI
     title: "Secondo libro dei Re"
-    sha256: 9df2a1035d6b3d91a78a9aab88e0af2b8cf0426de85294f692ce4d008835ea92
-    bytes: 225433
+    sha256: feb3c15effc8d2657045c0ef8e5f0182eec90b15cca6f5311c7d94f4befb87b5
+    bytes: 227331
   - path: 1CH.usfm
     book: 1CH
     title: "Primo libro delle Cronache"
-    sha256: 1f4b782a265daafc524ad275480caafb8acadd6e567ea10df1a3ae2acb143308
-    bytes: 173926
+    sha256: 855287a82c90d26dc6e7dfef2b28ab2bc754b6dde5e5bf43e778b2df7446db18
+    bytes: 172612
   - path: 2CH.usfm
     book: 2CH
     title: "Secondo libro delle Cronache"
-    sha256: 5c4e9faf4dc416d6898c7c5b34f39c3c72458575c02ae6cdf591448c168f6485
-    bytes: 196637
+    sha256: 895860afa084afb933ea98126239d084b716cd32e0492a0dce4e53a452c5f939
+    bytes: 196955
   - path: EZR.usfm
     book: EZR
     title: "Esdra"
-    sha256: 981ad8fa13ad64c9aaf71e2c8aae7c126ccb958d1106eb1f79aa2bd0f2030abc
-    bytes: 65966
+    sha256: 70b844d8525e9a945a34762905fb4d9862fc41087ebcf678c2e236bb1951112c
+    bytes: 66015
   - path: NEH.usfm
     book: NEH
     title: "Neemia"
-    sha256: 3b044e356a171aff8bc819a9912508ef4d93e24ef700c7f3d8f07e98f6197e62
-    bytes: 92678
+    sha256: 6a6a785ba54a6a4beb4123ddb4f26d2fecc8a4734195427aab8cf8604fc7422d
+    bytes: 91959
   - path: TOB.usfm
     book: TOB
     title: "Tobia"
-    sha256: 76916217c6b0b53086aaaa31057adbeb60ea93a2f5d5d839c28476c1121f6de6
-    bytes: 63948
+    sha256: 57ca0a9902044f79596a5f2bba9f3b3f5e03220d90fc6f7b5526938f6189c045
+    bytes: 64360
   - path: JDT.usfm
     book: JDT
     title: "Giuditta"
-    sha256: c5dfd848927c3220d1b615c5dffe0c0a25f4def860b7b009701ec6e1ccf52361
-    bytes: 73687
+    sha256: 9f4d000bd45d161c7d82e94fe51f26991141eb51947396a28582d377eb451823
+    bytes: 73390
   - path: EST.usfm
     book: EST
     title: "Ester"
-    sha256: fdfe4d0b68bc956ed92cc871d12a0d98a2b9d0a98af1bc2a687a39102786b5e8
-    bytes: 75940
+    sha256: 0de14bde35e6343f53f48beedeae25de2e3403424117ffc0bfe80cc891b1ad95
+    bytes: 75270
   - path: 1MA.usfm
     book: 1MA
     title: "Primo libro dei Maccabei"
-    sha256: f550fe802b9ed6d62b332d323206a218121ff66b414c56f24b006897055909d3
-    bytes: 178194
+    sha256: 761871c868a9fb7c57f0d74e1f0663a992bc1fa05c47e4ec5ed24b2d958d3731
+    bytes: 182504
   - path: 2MA.usfm
     book: 2MA
     title: "Secondo libro dei Maccabei"
-    sha256: f9a962282a56f743a75ee4392faaacf5c65ca2d40f67d7c77e2d3efef719bafc
-    bytes: 126949
+    sha256: 6eba52dce93d8a4d3c69d91aadf84aa760b1c1fe317cc1c2a1769992ceb2b388
+    bytes: 129480
   - path: JOB.usfm
     book: JOB
     title: "Giobbe"
-    sha256: b4d0ca6d3f42708c8c5b74930c09a254375823ae5cb40aa9c1aa8a817ab7b0d5
-    bytes: 431801
+    sha256: 1b58f6d799cba8f0b9c033254e9b53960a6fec78a31e8eac7fb7fbe086c7dba4
+    bytes: 431756
   - path: PSA.usfm
     book: PSA
     title: "Salmi"
-    sha256: 1bdbc77ec6e5a5355504f2fc72cc418948273e347b974cbbd58a61048b950978
-    bytes: 1209926
+    sha256: bbc24a1e476df29fb0a961ae731739b4a603c7477e767893ed59e6a6467d2718
+    bytes: 1208240
   - path: PRO.usfm
     book: PRO
     title: "Proverbi"
-    sha256: edcf819e03b00030c154ba7a057fa576ef8e539fd76dc02a5c3aa400bc62b709
-    bytes: 392167
+    sha256: c4429e02fda551518dc9b1d5543f5bf1421e007a4b981ab2bf7f5add5d4f03af
+    bytes: 391180
   - path: ECC.usfm
     book: ECC
     title: "Qoelet"
-    sha256: 4d755776b67656c31184b02d8266abfaf3bdebc675f6f9dc297dd8776a44e9b2
-    bytes: 186766
+    sha256: 60edf1daa08b3992adebb2b83e5e02ccffcd86a16a2d7eaaa804c8ce7a3bf7e1
+    bytes: 185924
   - path: SNG.usfm
     book: SNG
     title: "Cantico"
-    sha256: b2492cd01c93666cc87f3971e9d5b1014f8968c7bb554530a9241275353c125d
-    bytes: 453991
+    sha256: 74acb2bc46d4e45e28c1b78c9bc0b1c1c7536a3a748e98d3720513ccb8c2d0dd
+    bytes: 453162
   - path: WIS.usfm
     book: WIS
     title: "Sapienza"
-    sha256: 221d1560baada52bbc27662ad5c6313272e7480c3eae05e1be28632fce3201ad
-    bytes: 232271
+    sha256: 361384f64dd785dd37b10645205b576505f84a4816c0bd7f10ae66fb4922537f
+    bytes: 232533
   - path: SIR.usfm
     book: SIR
     title: "Siracide"
-    sha256: 91f8ab10e663ab82c91370910f769976bc533ef4cac1d25b53a818cfcd336c13
-    bytes: 615748
+    sha256: 54ce8bc7c981e423975f21e3de894dae1a38b2c277010ba48e5d2082073dfd09
+    bytes: 615551
   - path: ISA.usfm
     book: ISA
     title: "Isaia"
-    sha256: 9ec48903636e26cd59b988a4cbd462556016c359b8d8c1f00752d22711bcb3c2
-    bytes: 900599
+    sha256: a9eff838b90161ee971ab9a027449735627179585d23184f5169a002a90a524d
+    bytes: 901011
   - path: JER.usfm
     book: JER
     title: "Geremia"
-    sha256: 5a1b98abb0aac8271f9ba47899e09d05aeea1d40cabeeaf42d8a22c69d9f361d
-    bytes: 547193
+    sha256: fb8da8285ea63ea51cc3e8d5f568b1810c92752cab537facbe6241ede4b11a72
+    bytes: 547376
   - path: LAM.usfm
     book: LAM
     title: "Lamentazioni"
-    sha256: 77af394928f9661eb10c7118890b8d242a39379a1837a4469e8273f622277456
-    bytes: 70953
+    sha256: 78763c0db9c811b31ee5c4eba05f8d5b33b70f12506b34f5646206fe73cc1436
+    bytes: 70234
   - path: BAR.usfm
     book: BAR
     title: "Baruc"
-    sha256: 2ffb8599ed367487cc23c22e2ff2db5c56c65f4020215644c6f90b6da7552569
-    bytes: 67354
+    sha256: c620795c28dc5d62529894dc43955d87e0c79672b4812fe106433f59fde4a358
+    bytes: 67285
   - path: EZK.usfm
     book: EZK
     title: "Ezechiele"
-    sha256: 1d0ff1d191aa5fa65c7ff16315e8fc8a49b344b116146a9727e4bd4b681d9665
-    bytes: 590269
+    sha256: b02359e43cba24cedc4254dd721b54f05115a91e8590a61cd649d36883dccffd
+    bytes: 588105
   - path: DAN.usfm
     book: DAN
     title: "Daniele"
-    sha256: b8702ce3e73256de9f27245f1e05a6a437867801eac4c7b5d129a2257a0d7443
-    bytes: 195505
+    sha256: 79ae5e47f45158e73bea49a8e7044b7f047c63c7340a4d0afb425553b450bcbc
+    bytes: 195313
   - path: HOS.usfm
     book: HOS
     title: "Osea"
-    sha256: 419e12d4c3fbe0157d34c4f737d7abcbb684b4949f5a66a58e1a76d58492b021
-    bytes: 120869
+    sha256: 6168a3656f2c1418b5616d5cd527a0d86c121ad02532395f65a34f12db0a349f
+    bytes: 120756
   - path: JOL.usfm
     book: JOL
     title: "Gioele"
-    sha256: 104812475a619ea285b803eef5a68123a9603ee795baf164a029ffbd0240f2e5
-    bytes: 40049
+    sha256: d473647138d7a7333d9daf5f363228b210770e4457a4d13d2716f5c99d207035
+    bytes: 40225
   - path: AMO.usfm
     book: AMO
     title: "Amos"
-    sha256: 2b6cb187a99489b0c030e94910059e74afeed882527dc1f252806fd542fb425b
-    bytes: 80195
+    sha256: 43d994c3d29efab3fcda1e5f027783456b925a8b43e118d956dab31fac4cfb62
+    bytes: 79946
   - path: OBA.usfm
     book: OBA
     title: "Abdia"
-    sha256: bd10b49ed36bc6f84a37be41fad935621b3246b4a598f41f0ab7077c5b21a5bb
-    bytes: 15294
+    sha256: c82b06c321db1322cc857d802b046266838078e35a1d98c3ad44a5cc9fe3030a
+    bytes: 15256
   - path: JON.usfm
     book: JON
     title: "Giona"
-    sha256: 0d7e6224588e4901b5c708323ea76caec29c5fc2b9b7b8e3bdad8ee776c3407f
-    bytes: 32778
+    sha256: dafa1bafe68b06a8a93bd24892be020fd8e1fe87087e3142fd6d72ba2f7618b9
+    bytes: 32676
   - path: MIC.usfm
     book: MIC
     title: "Michea"
-    sha256: e6481fa2d77e1d345255528bd50db373cafcf8acc3a707128a7d497913f16d13
-    bytes: 77608
+    sha256: 60d4338f9e243658a3da370558e7e7368c049ee40f065db68e1b39ecfed76957
+    bytes: 77400
   - path: NAM.usfm
     book: NAM
     title: "Naum"
-    sha256: 5f8dfc301ddd18dd4c830f56fa4bc5117edf0b3c0d5b7e55a94957762f3d1231
-    bytes: 26844
+    sha256: fcdf700fc7edb965da69a4d759847f17947f57e3d7cff96b0169cde5631da8b7
+    bytes: 26775
   - path: HAB.usfm
     book: HAB
     title: "Abacuc"
-    sha256: af36a86b41fdee4727c92b0ba0ed4215c398f26af6eba0ad8bc6be33c388f985
-    bytes: 48025
+    sha256: 61fac7ad058f5d33c9002b53f553933a158c555217855c143148ab46dbb974cb
+    bytes: 47915
   - path: ZEP.usfm
     book: ZEP
     title: "Sofonia"
-    sha256: 507ac524d9aae4c318dfee53c6a2f46ba211bcda93ae75098205e75d6898d731
-    bytes: 31530
+    sha256: 64b43aa05a6817fd338d0c0cae98e29e14a0fe0fd95c73c187259a9ae0e1446d
+    bytes: 31373
   - path: HAG.usfm
     book: HAG
     title: "Aggeo"
-    sha256: 6a12a7b8d6229ddac0c17e60ff09732e0a53e32bea8e4d5e1d444e885646f331
-    bytes: 21804
+    sha256: 19fdba74ec1e89cf2de7c626e8b2105cd3e1a93b64ad6a2d1e20553083c6135d
+    bytes: 21883
   - path: ZEC.usfm
     book: ZEC
     title: "Zaccaria"
-    sha256: 5a9aceca8b199fc2925fa3bdd7bb05936061992f24a64147b649a2af10cdc7ea
-    bytes: 141852
+    sha256: 6eceabde07b02995a09149191d2394f7225493e093b70834d277787951499e5a
+    bytes: 141875
   - path: MAL.usfm
     book: MAL
     title: "Malachia"
-    sha256: 70771b37008c3748cb77bdfbc0aa2126589979dc64adfef6ec16231486be19ab
-    bytes: 43704
+    sha256: 291a7c7a396470298eae9af14297025b534f1b4a9aaec8d027866725ee465749
+    bytes: 43868
   - path: MAT.usfm
     book: MAT
     title: "Vangelo secondo Matteo"
-    sha256: 96130b407b6890fac803b073c917cd69db44ab63fde9931064fc3e0ec35be0a0
-    bytes: 356499
+    sha256: 991690d7cf041ef8228e7cc74ab133703b462adbec7aa274bfb0993c84fc24a4
+    bytes: 356364
   - path: MRK.usfm
     book: MRK
     title: "Vangelo secondo Marco"
-    sha256: e2981f69277353bbca3577cc5d0aa7888bb7e9d234f4347da4ea84cdae4dee98
-    bytes: 121074
+    sha256: ad02b5507980ef0cf6e8b8beb265e5a570d3a4d55acd348541de34460e9fb2ed
+    bytes: 121289
   - path: LUK.usfm
     book: LUK
     title: "Vangelo secondo Luca"
-    sha256: 05b3c0c27d01b8e142de1cdeb1f4bc5df287db190c7522d93421fee7af4dd758
-    bytes: 369796
+    sha256: d226892243e0f77ce6bfe52c1888b6400a460ccf9239a2523a8ed2e46535d407
+    bytes: 370626
   - path: JHN.usfm
     book: JHN
     title: "Vangelo secondo Giovanni"
-    sha256: 252520785c8000b1484d397e3ece6c891c55b66069188ab5869874d878319e5b
-    bytes: 366184
+    sha256: aba9a205712b0ab2506a0f5e467b7b776b5aef88c194deb33cf54310e47af9a0
+    bytes: 366276
   - path: ACT.usfm
     book: ACT
     title: "Atti degli Apostoli"
-    sha256: 57cd48f32f89717245c9ccddce8eec898b24c0b3b59af326bb2eea82964a154b
-    bytes: 409506
+    sha256: 328619b1f4bac4346c4ff0554f915d0a8c88e4ed384f49b69943a1ab7f05a7ce
+    bytes: 410414
   - path: ROM.usfm
     book: ROM
     title: "Lettera ai Romani"
