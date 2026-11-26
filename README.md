@@ -20,7 +20,7 @@ Officium is accepted (GitDocRead requirement SYS025).
 | `baltimore-catechism` | catechism | en (No. 1, 1885) | [Project Gutenberg #14551](https://github.com/GITenberg/A-Catechism-of-Christian-Doctrine_14551) | public domain |
 
 The Bible editions use the numbering of the Clementine Vulgate (`vul-clementine`), except the
-Martini Bible, whose numbering (as published by Scrutatio) differs in 102 psalms and 11 other
+Martini Bible, whose numbering (as published by Scrutatio) differs in 102 psalms and 12 other
 chapters (psalm titles joined to the first verse, verse divisions moved): it has its own
 versification file, `works/bible/it/martini/martini.vrs`, derived by aligning its verses with the
 Clementine Vulgate, so that the parallel view and references in Hebrew numbering work.
