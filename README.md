@@ -12,13 +12,18 @@ Officium is accepted (GitDocRead requirement SYS025).
 | Work | Kind | Editions | Source | License |
 |------|------|----------|--------|---------|
 | `bible` | scripture | **la** Biblia Sacra Vulgata Clementina (73 books), **en** Douay-Rheims, Challoner revision (73 books) | [open-bibles](https://github.com/seven1m/open-bibles) | public domain |
+| `bible` | scripture | **it** La Sacra Bibbia, translation by Antonio Martini (73 books, 1769–1781), with Martini's notes | [Scrutatio](https://www.scrutatio.it/bibbia/lettura/it/martini), extracted 2026-11 | public domain |
 | `bible` (psalter) | scripture | psalter of the Roman Breviary (150 psalms): **la**, **it**, **en**, **he** | [Divinum Officium](https://github.com/DivinumOfficium/divinum-officium) | MIT |
 | `our-father`, `hail-mary`, `gloria-patri`, `apostles-creed`, `confiteor`, `te-deum`, `requiem-aeternam`, `fidelium-animae`, `deus-in-adjutorium` | prayer, creed, hymn, liturgy | la, it, en | Divinum Officium | MIT |
 | `alma-redemptoris-mater`, `ave-regina-caelorum`, `regina-caeli`, `salve-regina` | hymn (Marian antiphons) | la, it, en | Divinum Officium | MIT |
 | `ordo-missae` | liturgy | la, it, en | Divinum Officium | MIT |
 | `baltimore-catechism` | catechism | en (No. 1, 1885) | [Project Gutenberg #14551](https://github.com/GITenberg/A-Catechism-of-Christian-Doctrine_14551) | public domain |
 
-All Bible editions use the numbering of the Clementine Vulgate (`vul-clementine`).
+The Bible editions use the numbering of the Clementine Vulgate (`vul-clementine`), except the
+Martini Bible, whose numbering (as published by Scrutatio) differs in 102 psalms and 11 other
+chapters (psalm titles joined to the first verse, verse divisions moved): it has its own
+versification file, `works/bible/it/martini/martini.vrs`, derived by aligning its verses with the
+Clementine Vulgate, so that the parallel view and references in Hebrew numbering work.
 
 ## Licenses
 
@@ -44,7 +49,8 @@ for this version:
 |--------|--------|
 | Divinum Officium | `d6c806624c9dcff6c715ef2d4abc3c9dee25d412` |
 | open-bibles | `8b330654ade69f7c96268c761da18dc83a1f49b7` |
-| gitdocread (converter, branch `dev`) | `dd09eeb8ab067276a0ea89538dd4b10f2a9db155` |
+| gitdocread (converters, branch `dev`) | `42b41a2` |
+| Scrutatio (Martini Bible) | pages read on 2026-11-26 with `tools/import/scrutatio.py`; versification by `packages/gitdocread/tool/derive_vrs.dart` |
 
 ## Known limits
 
@@ -59,8 +65,15 @@ for this version:
   left out.
 - Prayers are divided into stanzas (one unit per stanza; one per line in psalmodic texts).
 
+- **Martini Bible**: the text is as published by Scrutatio. In Psalm 92:1 the words "Il Signore
+  regnò, si è vestito di gloria…" (Vulgate *Dominus regnavit, decorem indutus est*) are missing
+  from the source. The versification maps whole verses: where a Martini verse holds half of a
+  Vulgate verse (e.g. Psalm 50:1–2 = Vulgate 50:1–3), the parallel view aligns it with the whole
+  verse. Martini's notes are footnotes on the first verse they comment; the summary of each
+  chapter is a section heading.
+
 ## Planned
 
-- Martini Bible (Italian, 1781) and the Catechisms of Saint Pius X (1905, 1912): public domain,
-  waiting for a digital source of the text.
+- Catechisms of Saint Pius X (1905, 1912): public domain, waiting for a digital source of the
+  text.
 - Ricciotti Bible: under copyright until 2034 (Giuseppe Ricciotti died in 1964); not included.

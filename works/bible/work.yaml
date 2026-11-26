@@ -6,10 +6,10 @@ title:
   it: Sacra Bibbia
   en: Holy Bible
 description:
-  en: The Clementine Vulgate and the Douay-Rheims Bible (73 books), and the psalter of the Roman Breviary
-    in Latin, Italian, English and Hebrew.
-  it: La Vulgata Clementina e la Bibbia Douay-Rheims (73 libri), e il salterio del Breviario Romano in
-    latino, italiano, inglese ed ebraico.
+  en: The Clementine Vulgate and the Douay-Rheims Bible (73 books), La Sacra Bibbia, traduzione di Antonio
+    Martini (73 books), and the psalter of the Roman Breviary in Latin, Italian, English and Hebrew.
+  it: La Vulgata Clementina e la Bibbia Douay-Rheims (73 libri), La Sacra Bibbia, traduzione di Antonio
+    Martini (73 libri), e il salterio del Breviario Romano in latino, italiano, inglese ed ebraico.
 editions:
 - language: la
   id: vulgata-clementina
@@ -23,3 +23,5 @@ editions:
   id: psalter-do
 - language: he
   id: psalterium-hebraicum-do
+- language: it
+  id: martini

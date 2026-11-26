@@ -1,0 +1,380 @@
+language: it
+id: martini
+title: "La Sacra Bibbia, traduzione di Antonio Martini"
+abbreviation: MAR
+format: usfm/3
+direction: ltr
+versification: martini.vrs
+copyright: Public domain.
+license: LicenseRef-PublicDomain
+source:
+  title: Scrutatio
+  url: https://www.scrutatio.it/bibbia/lettura/it/martini
+  version: "2026-11-26"
+notes: "Antonio Martini (1720-1809), Archbishop of Florence: translation of the Vulgate, 1769-1781. Public domain. Extracted from scrutatio.it by gitdocread tools/import/scrutatio.py."
+files:
+  - path: GEN.usfm
+    book: GEN
+    title: "Genesi"
+    sha256: d9ad8d711c85935d54bfd77be332b4c48902a5c8b8394d8bf60a2b5ad436ea8c
+    bytes: 558798
+  - path: EXO.usfm
+    book: EXO
+    title: "Esodo"
+    sha256: 6e46e364b2bca21c8e85d00a2cb69ebc249a0c2b5f9b5a6ede7119bef1b3a65a
+    bytes: 368607
+  - path: LEV.usfm
+    book: LEV
+    title: "Levitico"
+    sha256: 7e6c45a2090336a0a2358e7ce70d906eb8f598c167b1856f166ae638c7ab369b
+    bytes: 224791
+  - path: NUM.usfm
+    book: NUM
+    title: "Numeri"
+    sha256: 8b6891b1e24b0a89d0f7376712b52e8f7a522a89f9d8db2ecd207ea6ad82d5f0
+    bytes: 270140
+  - path: DEU.usfm
+    book: DEU
+    title: "Deuteronomio"
+    sha256: a7a9906d65440d1d41b1eeb890844e1062c8426abd8bcb9508ab6ead3dcaeb04
+    bytes: 247579
+  - path: JOS.usfm
+    book: JOS
+    title: "Giosuè"
+    sha256: 197c6c3cc83c7c1307208a19de637a95484c5d9714965957612184b37d5e766f
+    bytes: 174880
+  - path: JDG.usfm
+    book: JDG
+    title: "Giudici"
+    sha256: 448ea96ffe2c2ad7c0759f4f89736291497e382e244c7f09deb5ebd33a06197d
+    bytes: 192077
+  - path: RUT.usfm
+    book: RUT
+    title: "Rut"
+    sha256: b767eb10de8138a081d14cba5fa8afe2b6a5a9e78144aea8e3b735726eb0217c
+    bytes: 23547
+  - path: 1SA.usfm
+    book: 1SA
+    title: "Primo libro di Samuele"
+    sha256: 5b603697e334bb05c1318fe1f7eb0f7179d39c0533f184ee2b52b5373ea516a6
+    bytes: 256590
+  - path: 2SA.usfm
+    book: 2SA
+    title: "Secondo libro di Samuele"
+    sha256: 4352ddf1163d49ece12954eb4f84f6e0b6a828e3e9f619cf5e160607e6fff047
+    bytes: 200678
+  - path: 1KI.usfm
+    book: 1KI
+    title: "Primo libro dei Re"
+    sha256: 866113ba550cad1cdad5e83e2f41214172ff8302bc2a071d2936e851b0fa9d47
+    bytes: 247077
+  - path: 2KI.usfm
+    book: 2KI
+    title: "Secondo libro dei Re"
+    sha256: 9df2a1035d6b3d91a78a9aab88e0af2b8cf0426de85294f692ce4d008835ea92
+    bytes: 225433
+  - path: 1CH.usfm
+    book: 1CH
+    title: "Primo libro delle Cronache"
+    sha256: 1f4b782a265daafc524ad275480caafb8acadd6e567ea10df1a3ae2acb143308
+    bytes: 173926
+  - path: 2CH.usfm
+    book: 2CH
+    title: "Secondo libro delle Cronache"
+    sha256: 5c4e9faf4dc416d6898c7c5b34f39c3c72458575c02ae6cdf591448c168f6485
+    bytes: 196637
+  - path: EZR.usfm
+    book: EZR
+    title: "Esdra"
+    sha256: 981ad8fa13ad64c9aaf71e2c8aae7c126ccb958d1106eb1f79aa2bd0f2030abc
+    bytes: 65966
+  - path: NEH.usfm
+    book: NEH
+    title: "Neemia"
+    sha256: 3b044e356a171aff8bc819a9912508ef4d93e24ef700c7f3d8f07e98f6197e62
+    bytes: 92678
+  - path: TOB.usfm
+    book: TOB
+    title: "Tobia"
+    sha256: 76916217c6b0b53086aaaa31057adbeb60ea93a2f5d5d839c28476c1121f6de6
+    bytes: 63948
+  - path: JDT.usfm
+    book: JDT
+    title: "Giuditta"
+    sha256: c5dfd848927c3220d1b615c5dffe0c0a25f4def860b7b009701ec6e1ccf52361
+    bytes: 73687
+  - path: EST.usfm
+    book: EST
+    title: "Ester"
+    sha256: fdfe4d0b68bc956ed92cc871d12a0d98a2b9d0a98af1bc2a687a39102786b5e8
+    bytes: 75940
+  - path: 1MA.usfm
+    book: 1MA
+    title: "Primo libro dei Maccabei"
+    sha256: f550fe802b9ed6d62b332d323206a218121ff66b414c56f24b006897055909d3
+    bytes: 178194
+  - path: 2MA.usfm
+    book: 2MA
+    title: "Secondo libro dei Maccabei"
+    sha256: f9a962282a56f743a75ee4392faaacf5c65ca2d40f67d7c77e2d3efef719bafc
+    bytes: 126949
+  - path: JOB.usfm
+    book: JOB
+    title: "Giobbe"
+    sha256: b4d0ca6d3f42708c8c5b74930c09a254375823ae5cb40aa9c1aa8a817ab7b0d5
+    bytes: 431801
+  - path: PSA.usfm
+    book: PSA
+    title: "Salmi"
+    sha256: 1bdbc77ec6e5a5355504f2fc72cc418948273e347b974cbbd58a61048b950978
+    bytes: 1209926
+  - path: PRO.usfm
+    book: PRO
+    title: "Proverbi"
+    sha256: edcf819e03b00030c154ba7a057fa576ef8e539fd76dc02a5c3aa400bc62b709
+    bytes: 392167
+  - path: ECC.usfm
+    book: ECC
+    title: "Qoelet"
+    sha256: 4d755776b67656c31184b02d8266abfaf3bdebc675f6f9dc297dd8776a44e9b2
+    bytes: 186766
+  - path: SNG.usfm
+    book: SNG
+    title: "Cantico"
+    sha256: b2492cd01c93666cc87f3971e9d5b1014f8968c7bb554530a9241275353c125d
+    bytes: 453991
+  - path: WIS.usfm
+    book: WIS
+    title: "Sapienza"
+    sha256: 221d1560baada52bbc27662ad5c6313272e7480c3eae05e1be28632fce3201ad
+    bytes: 232271
+  - path: SIR.usfm
+    book: SIR
+    title: "Siracide"
+    sha256: 91f8ab10e663ab82c91370910f769976bc533ef4cac1d25b53a818cfcd336c13
+    bytes: 615748
+  - path: ISA.usfm
+    book: ISA
+    title: "Isaia"
+    sha256: 9ec48903636e26cd59b988a4cbd462556016c359b8d8c1f00752d22711bcb3c2
+    bytes: 900599
+  - path: JER.usfm
+    book: JER
+    title: "Geremia"
+    sha256: 5a1b98abb0aac8271f9ba47899e09d05aeea1d40cabeeaf42d8a22c69d9f361d
+    bytes: 547193
+  - path: LAM.usfm
+    book: LAM
+    title: "Lamentazioni"
+    sha256: 77af394928f9661eb10c7118890b8d242a39379a1837a4469e8273f622277456
+    bytes: 70953
+  - path: BAR.usfm
+    book: BAR
+    title: "Baruc"
+    sha256: 2ffb8599ed367487cc23c22e2ff2db5c56c65f4020215644c6f90b6da7552569
+    bytes: 67354
+  - path: EZK.usfm
+    book: EZK
+    title: "Ezechiele"
+    sha256: 1d0ff1d191aa5fa65c7ff16315e8fc8a49b344b116146a9727e4bd4b681d9665
+    bytes: 590269
+  - path: DAN.usfm
+    book: DAN
+    title: "Daniele"
+    sha256: b8702ce3e73256de9f27245f1e05a6a437867801eac4c7b5d129a2257a0d7443
+    bytes: 195505
+  - path: HOS.usfm
+    book: HOS
+    title: "Osea"
+    sha256: 419e12d4c3fbe0157d34c4f737d7abcbb684b4949f5a66a58e1a76d58492b021
+    bytes: 120869
+  - path: JOL.usfm
+    book: JOL
+    title: "Gioele"
+    sha256: 104812475a619ea285b803eef5a68123a9603ee795baf164a029ffbd0240f2e5
+    bytes: 40049
+  - path: AMO.usfm
+    book: AMO
+    title: "Amos"
+    sha256: 2b6cb187a99489b0c030e94910059e74afeed882527dc1f252806fd542fb425b
+    bytes: 80195
+  - path: OBA.usfm
+    book: OBA
+    title: "Abdia"
+    sha256: bd10b49ed36bc6f84a37be41fad935621b3246b4a598f41f0ab7077c5b21a5bb
+    bytes: 15294
+  - path: JON.usfm
+    book: JON
+    title: "Giona"
+    sha256: 0d7e6224588e4901b5c708323ea76caec29c5fc2b9b7b8e3bdad8ee776c3407f
+    bytes: 32778
+  - path: MIC.usfm
+    book: MIC
+    title: "Michea"
+    sha256: e6481fa2d77e1d345255528bd50db373cafcf8acc3a707128a7d497913f16d13
+    bytes: 77608
+  - path: NAM.usfm
+    book: NAM
+    title: "Naum"
+    sha256: 5f8dfc301ddd18dd4c830f56fa4bc5117edf0b3c0d5b7e55a94957762f3d1231
+    bytes: 26844
+  - path: HAB.usfm
+    book: HAB
+    title: "Abacuc"
+    sha256: af36a86b41fdee4727c92b0ba0ed4215c398f26af6eba0ad8bc6be33c388f985
+    bytes: 48025
+  - path: ZEP.usfm
+    book: ZEP
+    title: "Sofonia"
+    sha256: 507ac524d9aae4c318dfee53c6a2f46ba211bcda93ae75098205e75d6898d731
+    bytes: 31530
+  - path: HAG.usfm
+    book: HAG
+    title: "Aggeo"
+    sha256: 6a12a7b8d6229ddac0c17e60ff09732e0a53e32bea8e4d5e1d444e885646f331
+    bytes: 21804
+  - path: ZEC.usfm
+    book: ZEC
+    title: "Zaccaria"
+    sha256: 5a9aceca8b199fc2925fa3bdd7bb05936061992f24a64147b649a2af10cdc7ea
+    bytes: 141852
+  - path: MAL.usfm
+    book: MAL
+    title: "Malachia"
+    sha256: 70771b37008c3748cb77bdfbc0aa2126589979dc64adfef6ec16231486be19ab
+    bytes: 43704
+  - path: MAT.usfm
+    book: MAT
+    title: "Vangelo secondo Matteo"
+    sha256: 96130b407b6890fac803b073c917cd69db44ab63fde9931064fc3e0ec35be0a0
+    bytes: 356499
+  - path: MRK.usfm
+    book: MRK
+    title: "Vangelo secondo Marco"
+    sha256: e2981f69277353bbca3577cc5d0aa7888bb7e9d234f4347da4ea84cdae4dee98
+    bytes: 121074
+  - path: LUK.usfm
+    book: LUK
+    title: "Vangelo secondo Luca"
+    sha256: 05b3c0c27d01b8e142de1cdeb1f4bc5df287db190c7522d93421fee7af4dd758
+    bytes: 369796
+  - path: JHN.usfm
+    book: JHN
+    title: "Vangelo secondo Giovanni"
+    sha256: 252520785c8000b1484d397e3ece6c891c55b66069188ab5869874d878319e5b
+    bytes: 366184
+  - path: ACT.usfm
+    book: ACT
+    title: "Atti degli Apostoli"
+    sha256: 57cd48f32f89717245c9ccddce8eec898b24c0b3b59af326bb2eea82964a154b
+    bytes: 409506
+  - path: ROM.usfm
+    book: ROM
+    title: "Lettera ai Romani"
+    sha256: 72c4ebd9af1e92a5b33a08eb9d6b76073e15096522ff44348430ac9e00383d48
+    bytes: 384174
+  - path: 1CO.usfm
+    book: 1CO
+    title: "Prima lettera ai Corinzi"
+    sha256: 5607f56160aad1dea83b4f1cd8f281574dc9b06fd4e2cc92752b049389948a45
+    bytes: 306372
+  - path: 2CO.usfm
+    book: 2CO
+    title: "Seconda lettera ai Corinzi"
+    sha256: 529596b80d5758bd667f9aa53175e7a0557cfa1b0ab6715224572014b590032b
+    bytes: 160632
+  - path: GAL.usfm
+    book: GAL
+    title: "Lettera ai Galati"
+    sha256: 2557f310c373b5d8097d8b48cd5adc1afbe3898f2d4d09665ee2cb2ea2798533
+    bytes: 96472
+  - path: EPH.usfm
+    book: EPH
+    title: "Lettera agli Efesini"
+    sha256: ac6f4c7beb59b1461d3fab3e0b81d1da9cdc17906908f2085b58fade34141b60
+    bytes: 101501
+  - path: PHP.usfm
+    book: PHP
+    title: "Lettera ai Filippesi"
+    sha256: cc7ae66c3133712bec654a63f94d6604cc99c147e268fad97f69642a108064b8
+    bytes: 59870
+  - path: COL.usfm
+    book: COL
+    title: "Lettera ai Colossesi"
+    sha256: 6b7e6941ff66eabc8d7ce27b6258a34f344b3a02db5ce2c8273c522f133dcf6b
+    bytes: 61251
+  - path: 1TH.usfm
+    book: 1TH
+    title: "Prima lettera ai Tessalonicesi"
+    sha256: 9b400018fa6c19b00489bfd58f43865a84af270462ce29eae16449cddb9b38f3
+    bytes: 51268
+  - path: 2TH.usfm
+    book: 2TH
+    title: "Seconda lettera ai Tessalonicesi"
+    sha256: 815e578478df696169003f84f69effcf0a106a17e4856009125a5b61248d8868
+    bytes: 30965
+  - path: 1TI.usfm
+    book: 1TI
+    title: "Prima lettera a Timoteo"
+    sha256: 9ffb48a2237dfb05c46e203ab4155c34d76e2b84f8a12ca33a7ae4b2447fd885
+    bytes: 87591
+  - path: 2TI.usfm
+    book: 2TI
+    title: "Seconda lettera a Timoteo"
+    sha256: 4d2398bc67673b2fb4d0d8e6b9cbc26ae759505b687d4cafa14e78168cabfb73
+    bytes: 50406
+  - path: TIT.usfm
+    book: TIT
+    title: "Lettera a Tito"
+    sha256: 71219911df411a436283d05776e2ae02f3c80e3b4a718c105db89a1cdbfe3899
+    bytes: 27456
+  - path: PHM.usfm
+    book: PHM
+    title: "Lettera a Filemone"
+    sha256: 5aa41d0f66f90ac0177dce6ce9966ec21c5b4c157ba6da7c8fbee95b43d12d57
+    bytes: 9333
+  - path: HEB.usfm
+    book: HEB
+    title: "Lettera agli Ebrei"
+    sha256: 05f5c47d2a4e1f3d53b793e8de57ae8479feee331ddb8a27d0b794f17d8facc3
+    bytes: 298533
+  - path: JAS.usfm
+    book: JAS
+    title: "Lettera di Giacomo"
+    sha256: 66ef35875a138f0779655c2d6dbc9c21e97be6ccb10559d89edd2a324221c5fe
+    bytes: 96407
+  - path: 1PE.usfm
+    book: 1PE
+    title: "Prima lettera di Pietro"
+    sha256: a4a8706d0f4117e1a4fefcc7d1c2be885536ba82954adcd237a0a1e7bf180888
+    bytes: 89301
+  - path: 2PE.usfm
+    book: 2PE
+    title: "Seconda lettera di Pietro"
+    sha256: 069676384d54114b2722736a53e6ac2f8a5cc11f871e2678e76edae0b5020662
+    bytes: 58509
+  - path: 1JN.usfm
+    book: 1JN
+    title: "Prima lettera di Giovanni"
+    sha256: 5c596c9360f7a6d9acb4d42bc57cbede090fe23fe29ab8097b017202486c2735
+    bytes: 86516
+  - path: 2JN.usfm
+    book: 2JN
+    title: "Seconda lettera di Giovanni"
+    sha256: 6bf5b73820ce6b2e1fcfe3d1e90bbf429c341dd23dba910ec3db22da2a11de46
+    bytes: 7454
+  - path: 3JN.usfm
+    book: 3JN
+    title: "Terza lettera di Giovanni"
+    sha256: 6f3d1a3a31d6ce84bbd1d8a42681131ba09b64636e67702bcd83b0594febbbf2
+    bytes: 6886
+  - path: JUD.usfm
+    book: JUD
+    title: "Lettera di Giuda"
+    sha256: 520354b0899a722cba08712af54742d3bc7c33d65839dfd488cc71b127bdbaaa
+    bytes: 25939
+  - path: REV.usfm
+    book: REV
+    title: "Apocalisse"
+    sha256: 244b6ef4f3a4c0a1f3f0fbcdbf1bea1cb5490fe8fa65ebfc60624e004a86e843
+    bytes: 261625
